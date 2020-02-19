@@ -22,22 +22,6 @@ I have renamed the files so that they will automatically appear in order when so
 ![Tuesday May 1st 1984, Page # Unknown](1984-05-01.jpg)
 ## Thursday September 13th 1984, Page # Unknown
 ![Thursday September 13th 1984, Page # Unknown](1984-09-13.jpg)
-## Wednesday March 23rd 2016, Page # Unknown
-![Wednesday March 23rd 2016, Page # Unknown](2016-03-23.jpg)
-## Saturday April 30th 2016, Page # Unknown
-![Saturday April 30th 2016, Page # Unknown](2016-04-30.jpg)
-## Wednesday December 7th 2016, Page # Unknown
-![Wednesday December 7th 2016, Page # Unknown](2016-12-07.jpg)
-## Monday May 1st 2017, Page # Unknown
-![Monday May 1st 2017, Page # Unknown](2017-05-01.jpg)
-## Wednesday October 25th 2017, Page # Unknown
-![Wednesday October 25th 2017, Page # Unknown](2017-10-25.jpg)
-## Tuesday May 1st 2018, Page # Unknown
-![Tuesday May 1st 2018, Page # Unknown](2018-05-01.jpg)
-## Wednesday May 1st 2019, Page # Unknown
-![Wednesday May 1st 2019, Page # Unknown](2019-05-01.jpg)
-## Wednesday June 19th 2019, Page # Unknown
-![Wednesday June 19th 2019, Page # Unknown](2019-06-19.jpg)
 ## Friday March 15th 1985, Page # Unknown
 ![Friday March 15th 1985, Page # Unknown](1985-03-15.jpg)
 ## Wednesday May 1st 1985, Page # Unknown
@@ -60,6 +44,8 @@ I have renamed the files so that they will automatically appear in order when so
 ![Monday April 4th 1988, Page # Unknown](1988-04-04.jpg)
 ## Sunday May 1st 1988, Page # Unknown
 ![Sunday May 1st 1988, Page # Unknown](1988-05-01.jpg)
+## Wednesday September 28th 1988, Page # Unknown
+![Wednesday September 28th 1988, Page # Unknown](1988-09-28.jpg)
 ## Wednesday November 30th 1988, Page # Unknown
 ![Wednesday November 30th 1988, Page # Unknown](1988-11-30.jpg)
 ## Wednesday February 8th 1989, Page # Unknown
@@ -74,6 +60,8 @@ I have renamed the files so that they will automatically appear in order when so
 ![Wednesday December 6th 1989, Page # Unknown](1989-12-06.jpg)
 ## Wednesday March 21st 1990, Page # Unknown
 ![Wednesday March 21st 1990, Page # Unknown](1990-03-21.jpg)
+## Tuesday May 1st 1990, Page # Unknown
+![Tuesday May 1st 1990, Page # Unknown](1990-05-01.jpg)
 ## Wednesday September 5th 1990, Page # Unknown
 ![Wednesday September 5th 1990, Page # Unknown](1990-09-05.jpg)
 ## Wednesday October 24th 1990, Page # Unknown
@@ -90,14 +78,6 @@ I have renamed the files so that they will automatically appear in order when so
 ![Wednesday August 28th 1991, Page # Unknown](1991-08-28.jpg)
 ## Wednesday December 4th 1991, Page # Unknown
 ![Wednesday December 4th 1991, Page # Unknown](1991-12-04.jpg)
-## Wednesday September 28th 1988, Page # Unknown
-![Wednesday September 28th 1988, Page # Unknown](1988-09-28.jpg)
-## Tuesday May 1st 1990, Page # Unknown
-![Tuesday May 1st 1990, Page # Unknown](1990-05-01.jpg)
-## Tuesday May 1st 2007, Page # Unknown
-![Tuesday May 1st 2007, Page # Unknown](2007-05-01.jpg)
-## Wednesday December 2nd 2015, Page # Unknown
-![Wednesday December 2nd 2015, Page # Unknown](2015-12-02.jpg)
 ## Wednesday January 22nd 1992, Page # Unknown
 ![Wednesday January 22nd 1992, Page # Unknown](1992-01-22.jpg)
 ## Friday May 1st 1992, Page # Unknown
@@ -186,6 +166,8 @@ I have renamed the files so that they will automatically appear in order when so
 ![Monday May 1st 2006, Page # Unknown](2006-05-01.jpg)
 ## Wednesday December 6th 2006, Page # Unknown
 ![Wednesday December 6th 2006, Page # Unknown](2006-12-06.jpg)
+## Tuesday May 1st 2007, Page # Unknown
+![Tuesday May 1st 2007, Page # Unknown](2007-05-01.jpg)
 ## Wednesday December 5th 2007, Page # Unknown
 ![Wednesday December 5th 2007, Page # Unknown](2007-12-05.jpg)
 ## Wednesday April 2nd 2008, Page # Unknown
@@ -218,3 +200,21 @@ I have renamed the files so that they will automatically appear in order when so
 ![Wednesday June 25th 2014, Page # Unknown](2014-06-25.jpg)
 ## Friday May 1st 2015, Page # Unknown
 ![Friday May 1st 2015, Page # Unknown](2015-05-01.jpg)
+## Wednesday December 2nd 2015, Page # Unknown
+![Wednesday December 2nd 2015, Page # Unknown](2015-12-02.jpg)
+## Wednesday March 23rd 2016, Page # Unknown
+![Wednesday March 23rd 2016, Page # Unknown](2016-03-23.jpg)
+## Saturday April 30th 2016, Page # Unknown
+![Saturday April 30th 2016, Page # Unknown](2016-04-30.jpg)
+## Wednesday December 7th 2016, Page # Unknown
+![Wednesday December 7th 2016, Page # Unknown](2016-12-07.jpg)
+## Monday May 1st 2017, Page # Unknown
+![Monday May 1st 2017, Page # Unknown](2017-05-01.jpg)
+## Wednesday October 25th 2017, Page # Unknown
+![Wednesday October 25th 2017, Page # Unknown](2017-10-25.jpg)
+## Tuesday May 1st 2018, Page # Unknown
+![Tuesday May 1st 2018, Page # Unknown](2018-05-01.jpg)
+## Wednesday May 1st 2019, Page # Unknown
+![Wednesday May 1st 2019, Page # Unknown](2019-05-01.jpg)
+## Wednesday June 19th 2019, Page # Unknown
+![Wednesday June 19th 2019, Page # Unknown](2019-06-19.jpg)

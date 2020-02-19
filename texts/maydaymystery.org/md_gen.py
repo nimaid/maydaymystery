@@ -23,6 +23,7 @@ for r, d, f in os.walk(pic_dir):
         main_name, ext = split_last(filename.lower(), os.path.extsep)
         if ext in ['jpg', 'jpeg']:
             pic_files.append(filename)
+pic_files.sort()
 
 def split_str_num(str_in):
     temp = re.compile('([a-zA-Z]+)([0-9]+)') 
