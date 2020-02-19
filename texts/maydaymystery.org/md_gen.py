@@ -52,10 +52,10 @@ def filename_to_date_string(name_in):
     
     date = datetime.date(year=year, month=month, day=day)
     
-    final_name = date.strftime('%A %B') + ' '
+    final_name = date.strftime('%Y %B') + ' '
     final_name += append_num_suffix(date.day) + ' '
-    final_name += date.strftime('%Y')
-    #final_name += ', Page # Unknown'
+    final_name += date.strftime('(%A)')
+
     if rem != None:
         final_name += ', Comment: ' + rem
     return final_name
@@ -65,9 +65,15 @@ def main():
     for f in pic_files:
         these_strings = dict()
         these_strings['date'] = filename_to_date_string(f)
-        these_strings['title'] = '## ' + these_strings['date'] + ' [[Table of Contents](#table-of-contents)]'
+        these_strings['title'] = '## ' + these_strings['date'] + ' [[Table of Contents]](#table-of-contents)'
         these_strings['pic'] = '![' + these_strings['date'] + '](' + f + ')'
-        these_strings['link'] = '#' + these_strings['date'].lower().replace(',', '').replace(':', '').replace(' ', '-') + '-table-of-contents'
+        
+        these_strings['link'] = these_strings['date'].lower()
+        for x in ',()[]{}#':
+            these_strings['link'] = these_strings['link'].replace(x, '')
+        these_strings['link'] = these_strings['link'].replace(' ', '-')
+        these_strings['link'] += '-table-of-contents'
+        these_strings['link'] = '#' + these_strings['link']
         strings.append(these_strings)
     
     print('## Table of Contents')
