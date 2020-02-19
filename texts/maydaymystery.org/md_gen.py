@@ -55,7 +55,7 @@ def filename_to_date_string(name_in):
     final_name = date.strftime('%A %B') + ' '
     final_name += append_num_suffix(date.day) + ' '
     final_name += date.strftime('%Y')
-    final_name += ', Page # Unknown'
+    #final_name += ', Page # Unknown'
     if rem != None:
         final_name += ', Comment: ' + rem
     return final_name
@@ -68,3 +68,5 @@ def main():
         
         print(titlestring)
         print(picstring)
+
+main()
