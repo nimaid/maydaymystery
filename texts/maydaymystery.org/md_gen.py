@@ -57,7 +57,7 @@ def filename_to_date_string(name_in):
     final_name += date.strftime('(%A)')
 
     if rem != None:
-        final_name += ', Comment: ' + rem
+        final_name += ' {' + rem + '}'
     return final_name
 
 def main():
