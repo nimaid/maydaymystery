@@ -65,7 +65,7 @@ def main():
     for f in pic_files:
         these_strings = dict()
         these_strings['date'] = filename_to_date_string(f)
-        these_strings['title'] = '## ' + these_strings['date'] + ' [Table of Contents](#table-of-contents)'
+        these_strings['title'] = '## ' + these_strings['date'] + ' [[Table of Contents](#table-of-contents)]'
         these_strings['pic'] = '![' + these_strings['date'] + '](' + f + ')'
         these_strings['link'] = '#' + these_strings['date'].lower().replace(',', '').replace(':', '').replace(' ', '-') + '-table-of-contents'
         strings.append(these_strings)
