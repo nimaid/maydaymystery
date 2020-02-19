@@ -61,12 +61,20 @@ def filename_to_date_string(name_in):
     return final_name
 
 def main():
+    strings = []
     for f in pic_files:
-        datestring = filename_to_date_string(f)
-        titlestring = '## ' + datestring
-        picstring = '![' + datestring + '](' + f + ')'
-        
-        print(titlestring)
-        print(picstring)
-
+        these_strings = dict()
+        these_strings['date'] = filename_to_date_string(f)
+        these_strings['title'] = '## ' + these_strings['date']
+        these_strings['pic'] = '![' + these_strings['date'] + '](' + f + ')'
+        these_strings['link'] = '#' + these_strings['date'].lower().replace(',', '').replace(':', '').replace(' ', '-')
+        strings.append(these_strings)
+    
+    print('## Table of Contents')
+    for s in strings:
+        print('[' + s['date'] + '](' + s['link'] + ')')
+    print('\n')
+    for s in strings:
+        print(s['title'])
+        print(s['pic'])
 main()
