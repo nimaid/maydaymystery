@@ -42,7 +42,10 @@ def filename_to_date_string(name_in):
     final_name += date.strftime('(%A)')
 
     if rem != None:
-        final_name += ' {' + rem + '}'
+        page_num = rem.replace('page', '').upper()
+        if page_num == 'FORGOT':
+            page_num = 'Unknown'
+        final_name += ' {Page ' + page_num + '}'
     return final_name
 
 def main(pic_dir):
