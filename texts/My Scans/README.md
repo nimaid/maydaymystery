@@ -17,7 +17,10 @@ I have obtained explicity written permission to publish these online by the copy
 
 
 ## 1991 May 1st (Wednesday) {Page Unknown} [[Table of Contents]](#table-of-contents)
-![1991 May 1st (Wednesday) {Page Unknown}](1991-05-01_pageFORGOT.jpg)
+<details>
+  <summary>Click to load</summary> 
+  ![1991 May 1st (Wednesday) {Page Unknown}](1991-05-01_pageFORGOT.jpg)
+</details>
 ## 1992 May 1st (Friday) {Page 20} [[Table of Contents]](#table-of-contents)
 ![1992 May 1st (Friday) {Page 20}](1992-05-01_page20.jpg)
 ## 1993 May 3rd (Monday) {Page 16} [[Table of Contents]](#table-of-contents)
