@@ -15,13 +15,10 @@ I have obtained explicity written permission to publish these online by the copy
 * [2008 May 1st (Thursday) {Page 13}](#2008-may-1st-thursday-page-13-table-of-contents)
 * [2016 December 7th (Wednesday) {Page B23}](#2016-december-7th-wednesday-page-b23-table-of-contents)
 
-
 ## 1991 May 1st (Wednesday) {Page Unknown} [[Table of Contents]](#table-of-contents)
 <details>
   <summary>Click to load</summary>
-  
   ![1991 May 1st (Wednesday) {Page Unknown}](1991-05-01_pageFORGOT.jpg)
-  
 </details>
 
 ## 1992 May 1st (Friday) {Page 20} [[Table of Contents]](#table-of-contents)
