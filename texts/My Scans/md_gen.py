@@ -82,6 +82,7 @@ def main(pic_dir):
         print(s['title'])
         print('<details>')
         print('  <summary>Show</summary>')
+        print()
         print('  ' + s['pic'])
         print('</details>')
         print()

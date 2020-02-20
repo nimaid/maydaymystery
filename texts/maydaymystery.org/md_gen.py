@@ -77,7 +77,12 @@ def main(pic_dir):
     print('\n')
     for s in strings:
         print(s['title'])
-        print(s['pic'])
+        print('<details>')
+        print('  <summary>Show</summary>')
+        print()
+        print('  ' + s['pic'])
+        print('</details>')
+        print()
 
 script_path = os.path.dirname(os.path.realpath(__file__))
 main(script_path)

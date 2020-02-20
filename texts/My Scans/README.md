@@ -18,54 +18,62 @@ I have obtained explicity written permission to publish these online by the copy
 ## 1991 May 1st (Wednesday) {Page Unknown} [[Table of Contents]](#table-of-contents)
 <details>
   <summary>Show</summary>
-  
+
   ![1991 May 1st (Wednesday) {Page Unknown}](1991-05-01_pageFORGOT.jpg)
 </details>
 
 ## 1992 May 1st (Friday) {Page 20} [[Table of Contents]](#table-of-contents)
 <details>
   <summary>Show</summary>
+
   ![1992 May 1st (Friday) {Page 20}](1992-05-01_page20.jpg)
 </details>
 
 ## 1993 May 3rd (Monday) {Page 16} [[Table of Contents]](#table-of-contents)
 <details>
   <summary>Show</summary>
+
   ![1993 May 3rd (Monday) {Page 16}](1993-05-03_page16.jpg)
 </details>
 
 ## 1999 April 30th (Friday) {Page 24} [[Table of Contents]](#table-of-contents)
 <details>
   <summary>Show</summary>
+
   ![1999 April 30th (Friday) {Page 24}](1999-04-30_page24.jpg)
 </details>
 
 ## 1999 December 1st (Wednesday) {Page Unknown} [[Table of Contents]](#table-of-contents)
 <details>
   <summary>Show</summary>
+
   ![1999 December 1st (Wednesday) {Page Unknown}](1999-12-01_pageFORGOT.jpg)
 </details>
 
 ## 2007 May 1st (Tuesday) {Page 25} [[Table of Contents]](#table-of-contents)
 <details>
   <summary>Show</summary>
+
   ![2007 May 1st (Tuesday) {Page 25}](2007-05-01_page25.jpg)
 </details>
 
 ## 2008 April 2nd (Wednesday) {Page 14} [[Table of Contents]](#table-of-contents)
 <details>
   <summary>Show</summary>
+
   ![2008 April 2nd (Wednesday) {Page 14}](2008-04-02_page14.jpg)
 </details>
 
 ## 2008 May 1st (Thursday) {Page 13} [[Table of Contents]](#table-of-contents)
 <details>
   <summary>Show</summary>
+
   ![2008 May 1st (Thursday) {Page 13}](2008-05-01_page13.jpg)
 </details>
 
 ## 2016 December 7th (Wednesday) {Page B23} [[Table of Contents]](#table-of-contents)
 <details>
   <summary>Show</summary>
+
   ![2016 December 7th (Wednesday) {Page B23}](2016-12-07_pageB23.jpg)
 </details>
