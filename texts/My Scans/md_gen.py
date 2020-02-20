@@ -77,10 +77,14 @@ def main(pic_dir):
     print('## Table of Contents')
     for s in strings:
         print('* [' + s['date'] + '](' + s['link'] + ')')
-    print('\n')
+    print()
     for s in strings:
         print(s['title'])
-        print(s['pic'])
+        print('<details>')
+        print('  <summary>Show</summary>')
+        print('  ' + s['pic'])
+        print('</details>')
+        print()
 
 script_path = os.path.dirname(os.path.realpath(__file__))
 main(script_path)
