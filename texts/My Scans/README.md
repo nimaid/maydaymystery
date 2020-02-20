@@ -18,6 +18,7 @@ I have obtained explicity written permission to publish these online by the copy
 ## 1991 May 1st (Wednesday) {Page Unknown} [[Table of Contents]](#table-of-contents)
 <details>
   <summary>Show</summary>
+  
   ![1991 May 1st (Wednesday) {Page Unknown}](1991-05-01_pageFORGOT.jpg)
 </details>
 
