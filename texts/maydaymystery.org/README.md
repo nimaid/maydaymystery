@@ -47,7 +47,7 @@ I have renamed the files so that they will automatically appear in order when so
 * [1992 September 2nd (Wednesday)](#1992-september-2nd-wednesday-table-of-contents)
 * [1992 December 2nd (Wednesday)](#1992-december-2nd-wednesday-table-of-contents)
 * [1993 March 10th (Wednesday)](#1993-march-10th-wednesday-table-of-contents)
-* [1993 May 1st (Saturday)](#1993-may-1st-saturday-table-of-contents)
+* [1993 May 3rd (Monday)](#1993-may-3rd-monday-table-of-contents)
 * [1993 December 1st (Wednesday)](#1993-december-1st-wednesday-table-of-contents)
 * [1994 May 1st (Sunday)](#1994-may-1st-sunday-table-of-contents)
 * [1994 December 7th (Wednesday)](#1994-december-7th-wednesday-table-of-contents)
@@ -408,11 +408,11 @@ I have renamed the files so that they will automatically appear in order when so
   ![1993 March 10th (Wednesday)](1993-03-10.jpg)
 </details>
 
-## 1993 May 1st (Saturday) [[Table of Contents]](#table-of-contents)
+## 1993 May 3rd (Monday) [[Table of Contents]](#table-of-contents)
 <details>
   <summary>Show</summary>
 
-  ![1993 May 1st (Saturday)](1993-05-01.jpg)
+  ![1993 May 3rd (Monday)](1993-05-03.jpg)
 </details>
 
 ## 1993 December 1st (Wednesday) [[Table of Contents]](#table-of-contents)
