@@ -1,5 +1,7 @@
 # Original Scans from [maydaymystery.org](http://www.maydaymystery.org/mayday/texts/index.html)
 
+This page will take a while to load all the images, please be paitent. This page downloads a lot of data, so be warned if your computer is slow or you have a data limit!
+
 These are the original scans from [maydaymystery.org](http://www.maydaymystery.org/mayday/texts/index.html) as of February 19th, 2020.
 
 I have renamed the files so that they will automatically appear in order when sorted by name. In addition, I have converted all `.gif` files to `.jpg`.

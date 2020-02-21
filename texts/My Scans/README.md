@@ -1,5 +1,7 @@
 # Personal HD Scans
 
+This page will take a while to load all the images, please be paitent. This page downloads a lot of data, so be warned if your computer is slow or you have a data limit!
+
 These are scans I have personally taken from the bound and unbound archives of The (Arizona) Daily Wildcat in the Special Collections building in the University of Arizona library. I intend to upload the highest resolution I can obtain with the tools available to me at this time.
 
 All images are from The (Arizona) Daily Wildcat student-run newspaper at The University of Arizona. The copyright holder of this content is therefore The Daily Wildcat, and they hold all rights to this content. I have obtained explicit permission to publish these online from the Editor-in-Chief of The Daily Wildcat through the Director of Arizona Student Media. The requirements for this republishing are to cite The (Arizona) Daily Wildcat (above) and the full date each was published (below).
