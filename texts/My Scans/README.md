@@ -2,7 +2,7 @@
 
 These are scans I have personally taken from the bound and unbound archives of The (Arizona) Daily Wildcat in the Special Collections building in the University of Arizona library. I intend to upload the highest resolution I can obtain with the tools available to me at this time.
 
-All images are from The (Arizona) Daily Wildcat student-run newspaper at the University of Arizona. The copyright holder of this content is therefore The Daily Wildcat, and they hold all rights to this content. I have obtained explicit permission to publish these online from the Editor-in-Chief of The Daily Wildcat through the Director of Arizona Student Media. The requirements for this republishing are to cite The (Arizona) Daily Wildcat (above) and the full date each was published (below).
+All images are from The (Arizona) Daily Wildcat student-run newspaper at The University of Arizona. The copyright holder of this content is therefore The Daily Wildcat, and they hold all rights to this content. I have obtained explicit permission to publish these online from the Editor-in-Chief of The Daily Wildcat through the Director of Arizona Student Media. The requirements for this republishing are to cite The (Arizona) Daily Wildcat (above) and the full date each was published (below).
 
 ## Table of Contents
 * [1991 May 1st (Wednesday) {Page Unknown}](#1991-may-1st-wednesday-page-unknown-table-of-contents)
