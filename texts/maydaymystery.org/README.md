@@ -4,6 +4,8 @@ These are the original scans from [maydaymystery.org](http://www.maydaymystery.o
 
 I have renamed the files so that they will automatically appear in order when sorted by name. In addition, I have converted all `.gif` files to `.jpg`.
 
+All images are from The (Arizona) Daily Wildcat student-run newspaper at the University of Arizona. The copyright holder of this content is therefore The Daily Wildcat, and they hold all rights to this content. I have obtained explicit permission to publish these online from the Editor-in-Chief of The Daily Wildcat through the Director of Arizona Student Media. The requirements for this republishing are to cite The (Arizona) Daily Wildcat (above) and the full date each was published (below).
+
 ## Table of Contents
 * [1981 May 1st (Friday)](#1981-may-1st-friday-table-of-contents)
 * [1981 August 24th (Monday)](#1981-august-24th-monday-table-of-contents)
