@@ -54,7 +54,7 @@ def main(pic_dir):
     for r, d, f in os.walk(pic_dir):
         for filename in f:
             main_name, ext = split_last(filename.lower(), os.path.extsep)
-            if ext in ['jpg', 'jpeg']:
+            if (ext in ['jpg', 'jpeg']) and (main_name not in ['preview']):
                 pic_files.append(filename)
         break #prevent descending into subfolders
     pic_files.sort()

@@ -32,6 +32,7 @@ All images are from The (Arizona) Daily Wildcat student-run newspaper at The Uni
 * [2007 May 1st (Tuesday) {Page 25}](#2007-may-1st-tuesday-page-25-table-of-contents)
 * [2008 April 2nd (Wednesday) {Page 14}](#2008-april-2nd-wednesday-page-14-table-of-contents)
 * [2008 May 1st (Thursday) {Page 13}](#2008-may-1st-thursday-page-13-table-of-contents)
+* [2009 May 1st (Friday) {Page 8}](#2009-may-1st-friday-page-8-table-of-contents)
 * [2016 December 7th (Wednesday) {Page B23}](#2016-december-7th-wednesday-page-b23-table-of-contents)
 
 ## 1988 April 27th (Wednesday) {Page 16} [[Table of Contents]](#table-of-contents)
@@ -193,6 +194,13 @@ All images are from The (Arizona) Daily Wildcat student-run newspaper at The Uni
   <summary>Show</summary>
 
   ![2008 May 1st (Thursday) {Page 13}](2008-05-01_page13.jpg)
+</details>
+
+## 2009 May 1st (Friday) {Page 8} [[Table of Contents]](#table-of-contents)
+<details>
+  <summary>Show</summary>
+
+  ![2009 May 1st (Friday) {Page 8}](2009-05-01_page8.jpg)
 </details>
 
 ## 2016 December 7th (Wednesday) {Page B23} [[Table of Contents]](#table-of-contents)
