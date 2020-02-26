@@ -1,14 +1,14 @@
 <!-- Tufts VUE 3.3.0 concept-map (megamap.vue) 2020-02-26 -->
 <!-- Tufts VUE: http://vue.tufts.edu/ -->
 <!-- Do Not Remove: VUE mapping @version(1.1) jar:file:/C:/Program%20Files%20(x86)/VUE/VUE.jar!/tufts/vue/resources/lw_mapping_1_1.xml -->
-<!-- Do Not Remove: Saved date Wed Feb 26 09:29:34 MST 2020 by ellag on platform Windows 8 6.2 in JVM 1.7.0_21-b11 -->
+<!-- Do Not Remove: Saved date Wed Feb 26 09:34:52 MST 2020 by ellag on platform Windows 8 6.2 in JVM 1.7.0_21-b11 -->
 <!-- Do Not Remove: Saving version @(#)VUE: built October 8 2015 at 1658 by tomadm on Linux 2.6.32-504.23.4.el6.x86_64 i386 JVM 1.7.0_21-b11(bits=32) -->
 <?xml version="1.0" encoding="US-ASCII"?>
 <LW-MAP xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:noNamespaceSchemaLocation="none" ID="0" label="megamap.vue"
     created="1582664709072" x="0.0" y="0.0" width="585.3854"
     height="1009.8322" strokeWidth="0.0" autoSized="false">
-    <resource referenceCreated="1582734574376" size="103979"
+    <resource referenceCreated="1582734892225" size="103983"
         spec="C:\Users\ellag\Documents\GitHub\maydaymystery\megamap.vue"
         type="1" xsi:type="URLResource">
         <title>megamap.vue</title>
@@ -332,11 +332,11 @@
             spec="C:\Users\ellag\Documents\GitHub\maydaymystery\megamap_files\clips\1988-04-27_page16\1-abraham.jpg"
             type="1" xsi:type="URLResource">
             <title>1-abraham.jpg</title>
+            <property key="Content.size" value="406387"/>
+            <property key="Content.modified" value="Tue Feb 25 18:50:23 MST 2020"/>
             <property key="image.width" value="2169"/>
             <property key="image.height" value="701"/>
             <property key="image.format" value="JPEG"/>
-            <property key="Content.size" value="406387"/>
-            <property key="Content.modified" value="Tue Feb 25 18:50:23 MST 2020"/>
             <property key="@file.relative" value="megamap_files/clips/1988-04-27_page16/1-abraham.jpg"/>
             <property key="File" value="megamap_files/clips/1988-04-27_page16/1-abraham.jpg"/>
         </resource>
@@ -352,11 +352,11 @@
                 spec="C:\Users\ellag\Documents\GitHub\maydaymystery\megamap_files\clips\1988-04-27_page16\1-abraham.jpg"
                 type="1" xsi:type="URLResource">
                 <title>1-abraham.jpg</title>
+                <property key="Content.size" value="406387"/>
+                <property key="Content.modified" value="Tue Feb 25 18:50:23 MST 2020"/>
                 <property key="image.width" value="2169"/>
                 <property key="image.height" value="701"/>
                 <property key="image.format" value="JPEG"/>
-                <property key="Content.size" value="406387"/>
-                <property key="Content.modified" value="Tue Feb 25 18:50:23 MST 2020"/>
                 <property key="@file.relative" value="megamap_files/clips/1988-04-27_page16/1-abraham.jpg"/>
                 <property key="File" value="megamap_files/clips/1988-04-27_page16/1-abraham.jpg"/>
             </resource>
@@ -1092,8 +1092,8 @@
     <child ID="107" label="Right" layerID="1" created="1582689011248"
         x="-328.0811" y="-470.81815" width="423.0" height="39.0"
         strokeWidth="1.0" autoSized="true" xsi:type="node">
-        <resource referenceCreated="0" accessAttempted="1582689024186"
-            accessSuccessful="1582689024203" size="365829"
+        <resource referenceCreated="0" accessAttempted="1582734853580"
+            accessSuccessful="1582734853595" size="365829"
             spec="C:\Users\ellag\Documents\GitHub\maydaymystery\megamap_files\clips\1988-04-27_page16\border-right.jpg"
             type="1" xsi:type="URLResource">
             <title>border-right.jpg</title>
@@ -1114,8 +1114,8 @@
             width="384.0" height="10.0" strokeWidth="0.0"
             autoSized="false" xsi:type="image">
             <resource referenceCreated="0"
-                accessAttempted="1582689024186"
-                accessSuccessful="1582689024203" size="365829"
+                accessAttempted="1582734853580"
+                accessSuccessful="1582734853595" size="365829"
                 spec="C:\Users\ellag\Documents\GitHub\maydaymystery\megamap_files\clips\1988-04-27_page16\border-right.jpg"
                 type="1" xsi:type="URLResource">
                 <title>border-right.jpg</title>
@@ -1745,8 +1745,8 @@
         y="0.0" width="1.4E-45" height="1.4E-45" strokeWidth="0.0" autoSized="false">
         <URIString>http://vue.tufts.edu/rdf/resource/7e2ba576c0a83801015d1e0931034ec8</URIString>
     </layer>
-    <userZoom>0.5472440154064525</userZoom>
-    <userOrigin x="-740.7571" y="-414.36795"/>
+    <userZoom>1.4850430845594296</userZoom>
+    <userOrigin x="-873.89746" y="-1106.9233"/>
     <presentationBackground>#202020</presentationBackground>
     <PathwayList currentPathway="0" revealerIndex="-1">
         <pathway ID="0" label="Untitled Pathway" created="1582664709071"
