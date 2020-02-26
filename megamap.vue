@@ -1,14 +1,14 @@
 <!-- Tufts VUE 3.3.0 concept-map (megamap.vue) 2020-02-26 -->
 <!-- Tufts VUE: http://vue.tufts.edu/ -->
 <!-- Do Not Remove: VUE mapping @version(1.1) jar:file:/C:/Program%20Files%20(x86)/VUE/VUE.jar!/tufts/vue/resources/lw_mapping_1_1.xml -->
-<!-- Do Not Remove: Saved date Wed Feb 26 09:34:52 MST 2020 by ellag on platform Windows 8 6.2 in JVM 1.7.0_21-b11 -->
+<!-- Do Not Remove: Saved date Wed Feb 26 09:39:44 MST 2020 by ellag on platform Windows 8 6.2 in JVM 1.7.0_21-b11 -->
 <!-- Do Not Remove: Saving version @(#)VUE: built October 8 2015 at 1658 by tomadm on Linux 2.6.32-504.23.4.el6.x86_64 i386 JVM 1.7.0_21-b11(bits=32) -->
 <?xml version="1.0" encoding="US-ASCII"?>
 <LW-MAP xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:noNamespaceSchemaLocation="none" ID="0" label="megamap.vue"
-    created="1582664709072" x="0.0" y="0.0" width="585.3854"
-    height="1009.8322" strokeWidth="0.0" autoSized="false">
-    <resource referenceCreated="1582734892225" size="103983"
+    created="1582664709072" x="0.0" y="0.0" width="1540.4739"
+    height="1651.1401" strokeWidth="0.0" autoSized="false">
+    <resource referenceCreated="1582735184961" size="103983"
         spec="C:\Users\ellag\Documents\GitHub\maydaymystery\megamap.vue"
         type="1" xsi:type="URLResource">
         <title>megamap.vue</title>
@@ -1745,8 +1745,8 @@
         y="0.0" width="1.4E-45" height="1.4E-45" strokeWidth="0.0" autoSized="false">
         <URIString>http://vue.tufts.edu/rdf/resource/7e2ba576c0a83801015d1e0931034ec8</URIString>
     </layer>
-    <userZoom>1.4850430845594296</userZoom>
-    <userOrigin x="-873.89746" y="-1106.9233"/>
+    <userZoom>0.46009796786964446</userZoom>
+    <userOrigin x="-391.60648" y="-408.20367"/>
     <presentationBackground>#202020</presentationBackground>
     <PathwayList currentPathway="0" revealerIndex="-1">
         <pathway ID="0" label="Untitled Pathway" created="1582664709071"
