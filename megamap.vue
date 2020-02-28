@@ -1,14 +1,14 @@
 <!-- Tufts VUE 3.3.0 concept-map (megamap.vue) 2020-02-27 -->
 <!-- Tufts VUE: http://vue.tufts.edu/ -->
 <!-- Do Not Remove: VUE mapping @version(1.1) jar:file:/home/ella/Downloads/VUE.jar!/tufts/vue/resources/lw_mapping_1_1.xml -->
-<!-- Do Not Remove: Saved date Thu Feb 27 18:01:34 MST 2020 by ella on platform Linux 5.0.0-38-generic in JVM 11.0.5+10-post-Ubuntu-0ubuntu1.119.04 -->
+<!-- Do Not Remove: Saved date Thu Feb 27 18:02:56 MST 2020 by ella on platform Linux 5.0.0-38-generic in JVM 11.0.5+10-post-Ubuntu-0ubuntu1.119.04 -->
 <!-- Do Not Remove: Saving version @(#)VUE: built October 8 2015 at 1658 by tomadm on Linux 2.6.32-504.23.4.el6.x86_64 i386 JVM 1.7.0_21-b11(bits=32) -->
 <?xml version="1.0" encoding="US-ASCII"?>
 <LW-MAP xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:noNamespaceSchemaLocation="none" ID="0" label="megamap.vue"
     created="1582664709072" x="0.0" y="0.0" width="1540.4739"
     height="1651.1401" strokeWidth="0.0" autoSized="false">
-    <resource referenceCreated="1582851694581" size="160527"
+    <resource referenceCreated="1582851776320" size="160528"
         spec="/home/ella/GitHub/maydaymystery/megamap.vue" type="1" xsi:type="URLResource">
         <title>megamap.vue</title>
         <property key="File" value="/home/ella/GitHub/maydaymystery/megamap.vue"/>
@@ -1375,18 +1375,18 @@
         <ctrlPoint0 x="-59.532013" y="-326.08026" xsi:type="point"/>
     </child>
     <child ID="158" layerID="1" created="1582698471377" x="-153.48181"
-        y="-262.81424" width="110.74633" height="74.644485"
+        y="-262.8142" width="110.890755" height="94.450455"
         strokeWidth="2.0" autoSized="false" controlCount="1"
         arrowState="2" xsi:type="link">
         <strokeColor>#404040</strokeColor>
         <textColor>#404040</textColor>
         <font>Arial-plain-11</font>
         <URIString>http://vue.tufts.edu/rdf/resource/803158fdc0a83801018c8f0994dc9462</URIString>
-        <point1 x="-43.735485" y="-261.81424"/>
-        <point2 x="-152.48181" y="-189.16975"/>
+        <point1 x="-43.591057" y="-261.8142"/>
+        <point2 x="-152.48181" y="-169.36375"/>
         <ID1 xsi:type="node">155</ID1>
         <ID2 xsi:type="node">101</ID2>
-        <ctrlPoint0 x="-47.05622" y="-226.27402" xsi:type="point"/>
+        <ctrlPoint0 x="-50.118187" y="-181.10995" xsi:type="point"/>
     </child>
     <child ID="160" label="Horizontal Sword" layerID="1"
         created="1582698485694" x="-110.394806" y="-29.540497"
@@ -2738,8 +2738,8 @@
         y="0.0" width="1.4E-45" height="1.4E-45" strokeWidth="0.0" autoSized="false">
         <URIString>http://vue.tufts.edu/rdf/resource/7e2ba576c0a83801015d1e0931034ec8</URIString>
     </layer>
-    <userZoom>0.2165069740853433</userZoom>
-    <userOrigin x="-738.13574" y="-341.24176"/>
+    <userZoom>1.3063484002135435</userZoom>
+    <userOrigin x="-2076.2603" y="-1395.7135"/>
     <presentationBackground>#202020</presentationBackground>
     <PathwayList currentPathway="0" revealerIndex="-1">
         <pathway ID="0" label="Untitled Pathway" created="1582664709071"
