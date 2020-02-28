@@ -1,14 +1,14 @@
 <!-- Tufts VUE 3.3.0 concept-map (megamap.vue) 2020-02-27 -->
 <!-- Tufts VUE: http://vue.tufts.edu/ -->
 <!-- Do Not Remove: VUE mapping @version(1.1) jar:file:/C:/Program%20Files%20(x86)/VUE/VUE.jar!/tufts/vue/resources/lw_mapping_1_1.xml -->
-<!-- Do Not Remove: Saved date Thu Feb 27 19:19:44 MST 2020 by ellag on platform Windows 8 6.2 in JVM 1.7.0_21-b11 -->
+<!-- Do Not Remove: Saved date Thu Feb 27 19:24:51 MST 2020 by ellag on platform Windows 8 6.2 in JVM 1.7.0_21-b11 -->
 <!-- Do Not Remove: Saving version @(#)VUE: built October 8 2015 at 1658 by tomadm on Linux 2.6.32-504.23.4.el6.x86_64 i386 JVM 1.7.0_21-b11(bits=32) -->
 <?xml version="1.0" encoding="US-ASCII"?>
 <LW-MAP xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:noNamespaceSchemaLocation="none" ID="0" label="megamap.vue"
     created="1582664709072" x="0.0" y="0.0" width="1540.4739"
     height="1651.1401" strokeWidth="0.0" autoSized="false">
-    <resource referenceCreated="1582856384680" size="161713"
+    <resource referenceCreated="1582856691459" size="165552"
         spec="C:\Users\ellag\Documents\GitHub\maydaymystery\megamap.vue"
         type="1" xsi:type="URLResource">
         <title>megamap.vue</title>
@@ -1727,7 +1727,7 @@
         <ctrlPoint0 x="15.239803" y="849.3566" xsi:type="point"/>
     </child>
     <child ID="169" label="Mao Zedong" layerID="1"
-        created="1582761862724" x="-1577.2069" y="-1030.5815"
+        created="1582761862724" x="-1414.0121" y="-1049.7809"
         width="198.0" height="46.0" strokeWidth="1.0" autoSized="true" xsi:type="node">
         <fillColor>#FEFD8C</fillColor>
         <strokeColor>#000000</strokeColor>
@@ -1736,8 +1736,8 @@
         <URIString>http://vue.tufts.edu/rdf/resource/83f668afc0a8380101ae0ecaaac5f6b3</URIString>
         <shape arcwidth="20.0" archeight="20.0" xsi:type="roundRect"/>
     </child>
-    <child ID="170" layerID="1" created="1582761880101" x="-1470.0072"
-        y="-987.08154" width="1156.5623" height="1387.8768"
+    <child ID="170" layerID="1" created="1582761880101" x="-1309.6088"
+        y="-1006.28076" width="996.1638" height="1407.0762"
         strokeWidth="5.0" autoSized="false" controlCount="1"
         arrowState="2" xsi:type="link">
         <strokeColor>#404040</strokeColor>
@@ -1745,7 +1745,7 @@
         <font>Arial-plain-11</font>
         <URIString>http://vue.tufts.edu/rdf/resource/83f668b0c0a8380101ae0ecafffabe01</URIString>
         <point1 x="-315.94495" y="398.2954"/>
-        <point2 x="-1467.5072" y="-984.58154"/>
+        <point2 x="-1307.1088" y="-1003.78076"/>
         <ID1 xsi:type="node">117</ID1>
         <ID2 xsi:type="node">169</ID2>
         <ctrlPoint0 x="-828.5547" y="388.8924" xsi:type="point"/>
@@ -2737,12 +2737,79 @@
         <ID2 xsi:type="node">221</ID2>
         <ctrlPoint0 x="-52.254486" y="1880.512" xsi:type="point"/>
     </child>
+    <child ID="238" label="Oliver Cromwell" layerID="1"
+        created="1582856469216" x="-1753.5024" y="-1053.0052"
+        width="258.0" height="46.0" strokeWidth="1.0" autoSized="true" xsi:type="node">
+        <fillColor>#FEFD8C</fillColor>
+        <strokeColor>#000000</strokeColor>
+        <textColor>#000000</textColor>
+        <font>Arial-bold-32</font>
+        <URIString>http://vue.tufts.edu/rdf/resource/8999e799c0a83801009e3de9e1ade5dd</URIString>
+        <shape arcwidth="20.0" archeight="20.0" xsi:type="roundRect"/>
+    </child>
+    <child ID="239" layerID="1" created="1582856497564" x="-1621.2516"
+        y="-1009.5054" width="1302.2897" height="2302.6348"
+        strokeWidth="5.0" autoSized="false" controlCount="1"
+        arrowState="2" xsi:type="link">
+        <strokeColor>#404040</strokeColor>
+        <textColor>#404040</textColor>
+        <font>Arial-plain-11</font>
+        <URIString>http://vue.tufts.edu/rdf/resource/8999e799c0a83801009e3de9ccf2a839</URIString>
+        <point1 x="-321.462" y="1290.6295"/>
+        <point2 x="-1618.7516" y="-1007.0054"/>
+        <ID1 xsi:type="node">205</ID1>
+        <ID2 xsi:type="node">238</ID2>
+        <ctrlPoint0 x="-1057.7888" y="1236.5265" xsi:type="point"/>
+    </child>
+    <child ID="240" label="May 1st, 1990, Page 25" layerID="1"
+        created="1582856593202" x="113.74377" y="2539.9265"
+        width="196.87402" height="285.0" strokeWidth="1.0"
+        autoSized="true" xsi:type="node">
+        <resource referenceCreated="0" size="6104959"
+            spec="C:\Users\ellag\Documents\GitHub\maydaymystery\texts\My Scans\1990-05-01_page25.jpg"
+            type="1" xsi:type="URLResource">
+            <title>1990-05-01_page25.jpg</title>
+            <property key="Content.size" value="6104959"/>
+            <property key="Content.modified" value="Fri Feb 21 18:17:18 MST 2020"/>
+            <property key="image.width" value="6080"/>
+            <property key="image.height" value="9859"/>
+            <property key="image.format" value="JPEG"/>
+            <property key="@file.relative" value="texts/My%20Scans/1990-05-01_page25.jpg"/>
+            <property key="File" value="texts/My Scans/1990-05-01_page25.jpg"/>
+        </resource>
+        <fillColor>#FC938D</fillColor>
+        <strokeColor>#000000</strokeColor>
+        <textColor>#000000</textColor>
+        <font>Arial-plain-12</font>
+        <URIString>http://vue.tufts.edu/rdf/resource/899b32e6c0a83801009e3de9eeb147d0</URIString>
+        <child ID="241" created="1582856593200" x="34.0" y="23.0"
+            width="157.87402" height="256.0" strokeWidth="0.0"
+            autoSized="false" xsi:type="image">
+            <resource referenceCreated="0" size="6104959"
+                spec="C:\Users\ellag\Documents\GitHub\maydaymystery\texts\My Scans\1990-05-01_page25.jpg"
+                type="1" xsi:type="URLResource">
+                <title>1990-05-01_page25.jpg</title>
+                <property key="Content.size" value="6104959"/>
+                <property key="Content.modified" value="Fri Feb 21 18:17:18 MST 2020"/>
+                <property key="image.width" value="6080"/>
+                <property key="image.height" value="9859"/>
+                <property key="image.format" value="JPEG"/>
+                <property key="@file.relative" value="texts/My%20Scans/1990-05-01_page25.jpg"/>
+                <property key="File" value="texts/My Scans/1990-05-01_page25.jpg"/>
+            </resource>
+            <strokeColor>#404040</strokeColor>
+            <textColor>#000000</textColor>
+            <font>SansSerif-plain-14</font>
+            <URIString>http://vue.tufts.edu/rdf/resource/899b32e6c0a83801009e3de98121947d</URIString>
+        </child>
+        <shape arcwidth="20.0" archeight="20.0" xsi:type="roundRect"/>
+    </child>
     <layer ID="1" label="Layer 1" created="1582664709075" x="0.0"
         y="0.0" width="1.4E-45" height="1.4E-45" strokeWidth="0.0" autoSized="false">
         <URIString>http://vue.tufts.edu/rdf/resource/7e2ba576c0a83801015d1e0931034ec8</URIString>
     </layer>
-    <userZoom>0.3096640519099925</userZoom>
-    <userOrigin x="-499.01553" y="-405.30237"/>
+    <userZoom>0.8665107528534589</userZoom>
+    <userOrigin x="-1532.7394" y="-928.50165"/>
     <presentationBackground>#202020</presentationBackground>
     <PathwayList currentPathway="0" revealerIndex="-1">
         <pathway ID="0" label="Untitled Pathway" created="1582664709071"
