@@ -18,3 +18,7 @@ Backup of *.doc*
 # Visio autosave temporary files
 *.~vsd*
 .~megamap.vue
+
+# Bad juju, man
+archive.org/*
+copyright_issues/*
