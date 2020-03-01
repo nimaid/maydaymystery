@@ -1,14 +1,14 @@
-<!-- Tufts VUE 3.3.0 concept-map (megamap.vue) 2020-02-27 -->
+<!-- Tufts VUE 3.3.0 concept-map (megamap.vue) 2020-02-29 -->
 <!-- Tufts VUE: http://vue.tufts.edu/ -->
 <!-- Do Not Remove: VUE mapping @version(1.1) jar:file:/C:/Program%20Files%20(x86)/VUE/VUE.jar!/tufts/vue/resources/lw_mapping_1_1.xml -->
-<!-- Do Not Remove: Saved date Thu Feb 27 19:24:51 MST 2020 by ellag on platform Windows 8 6.2 in JVM 1.7.0_21-b11 -->
+<!-- Do Not Remove: Saved date Sat Feb 29 18:57:40 MST 2020 by ellag on platform Windows 8 6.2 in JVM 1.7.0_21-b11 -->
 <!-- Do Not Remove: Saving version @(#)VUE: built October 8 2015 at 1658 by tomadm on Linux 2.6.32-504.23.4.el6.x86_64 i386 JVM 1.7.0_21-b11(bits=32) -->
 <?xml version="1.0" encoding="US-ASCII"?>
 <LW-MAP xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:noNamespaceSchemaLocation="none" ID="0" label="megamap.vue"
     created="1582664709072" x="0.0" y="0.0" width="1540.4739"
     height="1651.1401" strokeWidth="0.0" autoSized="false">
-    <resource referenceCreated="1582856691459" size="165552"
+    <resource referenceCreated="1583027860503" size="165553"
         spec="C:\Users\ellag\Documents\GitHub\maydaymystery\megamap.vue"
         type="1" xsi:type="URLResource">
         <title>megamap.vue</title>
@@ -478,7 +478,7 @@
         <ctrlPoint0 x="401.2486" y="-233.5151" xsi:type="point"/>
     </child>
     <child ID="63" label="1" layerID="1" created="1582682404385"
-        x="486.97522" y="-141.70222" width="167.0" height="41.40711"
+        x="486.97522" y="-141.70222" width="55.0" height="45.0"
         strokeWidth="1.0" autoSized="true" xsi:type="node">
         <resource referenceCreated="0" accessAttempted="1582687955415"
             accessSuccessful="1582687955434" size="108572"
@@ -499,7 +499,7 @@
         <font>Arial-plain-12</font>
         <URIString>http://vue.tufts.edu/rdf/resource/7f3985fdc0a83801015697b677798c32</URIString>
         <child ID="64" created="1582682404384" x="34.0" y="23.0"
-            width="128.0" height="12.407108" strokeWidth="0.0"
+            width="16.0" height="16.0" strokeWidth="0.0"
             autoSized="false" xsi:type="image">
             <resource referenceCreated="0"
                 accessAttempted="1582687955415"
@@ -607,7 +607,7 @@
         <shape arcwidth="20.0" archeight="20.0" xsi:type="roundRect"/>
     </child>
     <child ID="143" layerID="1" created="1582697703179" x="411.26572"
-        y="-107.53949" width="77.46777" height="54.83258"
+        y="-112.919106" width="76.7095" height="60.212196"
         strokeWidth="2.0" autoSized="false" controlCount="1"
         arrowState="2" xsi:type="link">
         <strokeColor>#404040</strokeColor>
@@ -615,7 +615,7 @@
         <font>Arial-plain-11</font>
         <URIString>http://vue.tufts.edu/rdf/resource/802a421ec0a83801018c8f09f36678ad</URIString>
         <point1 x="412.26572" y="-53.70691"/>
-        <point2 x="487.7335" y="-106.53949"/>
+        <point2 x="486.97522" y="-111.919106"/>
         <ID1 xsi:type="node">62</ID1>
         <ID2 xsi:type="node">63</ID2>
         <ctrlPoint0 x="425.79062" y="-95.71493" xsi:type="point"/>
@@ -1075,7 +1075,7 @@
         <shape arcwidth="20.0" archeight="20.0" xsi:type="roundRect"/>
     </child>
     <child ID="107" label="Right" layerID="1" created="1582689011248"
-        x="-328.0811" y="-470.81815" width="423.0" height="39.0"
+        x="-328.0811" y="-470.81815" width="68.0" height="45.0"
         strokeWidth="1.0" autoSized="true" xsi:type="node">
         <resource referenceCreated="0" accessAttempted="1582734853580"
             accessSuccessful="1582734853595" size="365829"
@@ -1096,7 +1096,7 @@
         <font>Arial-plain-12</font>
         <URIString>http://vue.tufts.edu/rdf/resource/7fa2f41ec0a8380101cb77961272f497</URIString>
         <child ID="108" created="1582689011246" x="34.0" y="23.0"
-            width="384.0" height="10.0" strokeWidth="0.0"
+            width="16.0" height="16.0" strokeWidth="0.0"
             autoSized="false" xsi:type="image">
             <resource referenceCreated="0"
                 accessAttempted="1582734853580"
@@ -1146,8 +1146,8 @@
         <ID2 xsi:type="node">103</ID2>
         <ctrlPoint0 x="138.10219" y="-578.8138" xsi:type="point"/>
     </child>
-    <child ID="154" layerID="1" created="1582698256695" x="93.918915"
-        y="-507.85547" width="52.65155" height="53.85315"
+    <child ID="154" layerID="1" created="1582698256695" x="-261.0811"
+        y="-507.85547" width="407.65155" height="59.9523"
         strokeWidth="2.0" autoSized="false" controlCount="1"
         arrowState="2" xsi:type="link">
         <strokeColor>#404040</strokeColor>
@@ -1155,7 +1155,7 @@
         <font>Arial-plain-11</font>
         <URIString>http://vue.tufts.edu/rdf/resource/803158f4c0a83801018c8f09d29fec1a</URIString>
         <point1 x="145.57047" y="-506.85547"/>
-        <point2 x="94.918915" y="-455.00232"/>
+        <point2 x="-260.0811" y="-448.90317"/>
         <ID1 xsi:type="node">94</ID1>
         <ID2 xsi:type="node">107</ID2>
         <ctrlPoint0 x="137.42224" y="-455.74268" xsi:type="point"/>
@@ -1252,8 +1252,7 @@
     </child>
     <child ID="89" label="Horizontal Blade" layerID="1"
         created="1582684249621" x="-322.22647" y="-77.35153"
-        width="167.0" height="43.688522" strokeWidth="1.0"
-        autoSized="true" xsi:type="node">
+        width="129.0" height="45.0" strokeWidth="1.0" autoSized="true" xsi:type="node">
         <resource referenceCreated="0" accessAttempted="1582698423540"
             accessSuccessful="1582698423557" size="129443"
             spec="C:\Users\ellag\Documents\GitHub\maydaymystery\megamap_files\clips\1988-04-27_page16\cross-blade-horiz.jpg"
@@ -1273,7 +1272,7 @@
         <font>Arial-plain-12</font>
         <URIString>http://vue.tufts.edu/rdf/resource/7f557e84c0a83801015697b6cfc8a459</URIString>
         <child ID="90" created="1582684249620" x="34.0" y="23.0"
-            width="128.0" height="14.688524" strokeWidth="0.0"
+            width="16.0" height="16.0" strokeWidth="0.0"
             autoSized="false" xsi:type="image">
             <resource referenceCreated="0"
                 accessAttempted="1582698423540"
@@ -1417,8 +1416,8 @@
         <ctrlPoint0 x="58.924862" y="-113.55653" xsi:type="point"/>
         <ctrlPoint1 x="46.505585" y="-17.989973" xsi:type="point"/>
     </child>
-    <child ID="162" layerID="1" created="1582698501598" x="-156.22647"
-        y="-55.556484" width="99.46506" height="27.015987"
+    <child ID="162" layerID="1" created="1582698501598" x="-194.22647"
+        y="-55.409397" width="137.46506" height="26.8689"
         strokeWidth="2.0" autoSized="false" controlCount="1"
         arrowState="2" xsi:type="link">
         <strokeColor>#404040</strokeColor>
@@ -1426,7 +1425,7 @@
         <font>Arial-plain-11</font>
         <URIString>http://vue.tufts.edu/rdf/resource/803158fec0a83801018c8f093750f51e</URIString>
         <point1 x="-57.761414" y="-29.540497"/>
-        <point2 x="-155.22647" y="-54.556484"/>
+        <point2 x="-193.22647" y="-54.409397"/>
         <ID1 xsi:type="node">160</ID1>
         <ID2 xsi:type="node">89</ID2>
         <ctrlPoint0 x="-65.290054" y="-53.53241" xsi:type="point"/>
@@ -1795,7 +1794,7 @@
         <shape arcwidth="20.0" archeight="20.0" xsi:type="roundRect"/>
     </child>
     <child ID="177" label="1" layerID="1" created="1582850432732"
-        x="474.53952" y="1302.1427" width="167.0" height="41.288002"
+        x="474.53952" y="1302.1427" width="55.0" height="45.0"
         strokeWidth="1.0" autoSized="true" xsi:type="node">
         <resource referenceCreated="0" size="32303"
             spec="C:\Users\ellag\Documents\GitHub\maydaymystery\megamap_files\clips\1989-05-01_page24\1-the-day.jpg"
@@ -1815,7 +1814,7 @@
         <font>Arial-plain-12</font>
         <URIString>http://vue.tufts.edu/rdf/resource/894236a17f00010119aefff34985ccb5</URIString>
         <child ID="178" created="1582850432731" x="34.0" y="23.0"
-            width="128.0" height="12.288" strokeWidth="0.0"
+            width="16.0" height="16.0" strokeWidth="0.0"
             autoSized="false" xsi:type="image">
             <resource referenceCreated="0" size="32303"
                 spec="C:\Users\ellag\Documents\GitHub\maydaymystery\megamap_files\clips\1989-05-01_page24\1-the-day.jpg"
@@ -1837,7 +1836,7 @@
         <shape arcwidth="20.0" archeight="20.0" xsi:type="roundRect"/>
     </child>
     <child ID="179" label="2" layerID="1" created="1582850435354"
-        x="474.9155" y="1349.6384" width="167.0" height="39.0"
+        x="474.9155" y="1349.6384" width="55.0" height="45.0"
         strokeWidth="1.0" autoSized="true" xsi:type="node">
         <resource referenceCreated="0" size="38797"
             spec="C:\Users\ellag\Documents\GitHub\maydaymystery\megamap_files\clips\1989-05-01_page24\2-the-hour.jpg"
@@ -1857,7 +1856,7 @@
         <font>Arial-plain-12</font>
         <URIString>http://vue.tufts.edu/rdf/resource/894236a37f00010119aefff3d257ceff</URIString>
         <child ID="180" created="1582850435353" x="34.0" y="23.0"
-            width="128.0" height="10.0" strokeWidth="0.0"
+            width="16.0" height="16.0" strokeWidth="0.0"
             autoSized="false" xsi:type="image">
             <resource referenceCreated="0" size="38797"
                 spec="C:\Users\ellag\Documents\GitHub\maydaymystery\megamap_files\clips\1989-05-01_page24\2-the-hour.jpg"
@@ -1879,7 +1878,7 @@
         <shape arcwidth="20.0" archeight="20.0" xsi:type="roundRect"/>
     </child>
     <child ID="181" label="3" layerID="1" created="1582850437210"
-        x="476.31393" y="1397.4192" width="167.0" height="43.302322"
+        x="476.31393" y="1397.4192" width="55.0" height="45.0"
         strokeWidth="1.0" autoSized="true" xsi:type="node">
         <resource referenceCreated="0" size="149269"
             spec="C:\Users\ellag\Documents\GitHub\maydaymystery\megamap_files\clips\1989-05-01_page24\3-the-place.jpg"
@@ -1899,7 +1898,7 @@
         <font>Arial-plain-12</font>
         <URIString>http://vue.tufts.edu/rdf/resource/894236a57f00010119aefff3199d9ea9</URIString>
         <child ID="182" created="1582850437210" x="34.0" y="23.0"
-            width="128.0" height="14.3023205" strokeWidth="0.0"
+            width="16.0" height="16.0" strokeWidth="0.0"
             autoSized="false" xsi:type="image">
             <resource referenceCreated="0" size="149269"
                 spec="C:\Users\ellag\Documents\GitHub\maydaymystery\megamap_files\clips\1989-05-01_page24\3-the-place.jpg"
@@ -1927,13 +1926,13 @@
             spec="C:\Users\ellag\Documents\GitHub\maydaymystery\megamap_files\clips\1989-05-01_page24\4-ragged.jpg"
             type="1" xsi:type="URLResource">
             <title>4-ragged.jpg</title>
+            <property key="@file.relative" value="megamap_files/clips/1989-05-01_page24/4-ragged.jpg"/>
+            <property key="File" value="megamap_files/clips/1989-05-01_page24/4-ragged.jpg"/>
             <property key="Content.size" value="313862"/>
             <property key="Content.modified" value="Thu Feb 27 19:17:11 MST 2020"/>
             <property key="image.width" value="4436"/>
             <property key="image.height" value="812"/>
             <property key="image.format" value="JPEG"/>
-            <property key="@file.relative" value="megamap_files/clips/1989-05-01_page24/4-ragged.jpg"/>
-            <property key="File" value="megamap_files/clips/1989-05-01_page24/4-ragged.jpg"/>
         </resource>
         <fillColor>#F1A83E</fillColor>
         <strokeColor>#000000</strokeColor>
@@ -1947,13 +1946,13 @@
                 spec="C:\Users\ellag\Documents\GitHub\maydaymystery\megamap_files\clips\1989-05-01_page24\4-ragged.jpg"
                 type="1" xsi:type="URLResource">
                 <title>4-ragged.jpg</title>
+                <property key="@file.relative" value="megamap_files/clips/1989-05-01_page24/4-ragged.jpg"/>
+                <property key="File" value="megamap_files/clips/1989-05-01_page24/4-ragged.jpg"/>
                 <property key="Content.size" value="313862"/>
                 <property key="Content.modified" value="Thu Feb 27 19:17:11 MST 2020"/>
                 <property key="image.width" value="4436"/>
                 <property key="image.height" value="812"/>
                 <property key="image.format" value="JPEG"/>
-                <property key="@file.relative" value="megamap_files/clips/1989-05-01_page24/4-ragged.jpg"/>
-                <property key="File" value="megamap_files/clips/1989-05-01_page24/4-ragged.jpg"/>
             </resource>
             <strokeColor>#404040</strokeColor>
             <textColor>#000000</textColor>
@@ -1963,19 +1962,19 @@
         <shape arcwidth="20.0" archeight="20.0" xsi:type="roundRect"/>
     </child>
     <child ID="185" label="5" layerID="1" created="1582850443776"
-        x="475.28122" y="1511.831" width="167.0" height="44.350765"
+        x="475.28122" y="1511.831" width="55.0" height="45.0"
         strokeWidth="1.0" autoSized="true" xsi:type="node">
         <resource referenceCreated="0" size="179819"
             spec="C:\Users\ellag\Documents\GitHub\maydaymystery\megamap_files\clips\1989-05-01_page24\5-reformation-hops.jpg"
             type="1" xsi:type="URLResource">
             <title>5-reformation-hops.jpg</title>
-            <property key="Content.size" value="179819"/>
-            <property key="Content.modified" value="Thu Feb 27 19:17:11 MST 2020"/>
             <property key="image.width" value="4436"/>
             <property key="image.height" value="532"/>
             <property key="image.format" value="JPEG"/>
             <property key="@file.relative" value="megamap_files/clips/1989-05-01_page24/5-reformation-hops.jpg"/>
             <property key="File" value="megamap_files/clips/1989-05-01_page24/5-reformation-hops.jpg"/>
+            <property key="Content.size" value="179819"/>
+            <property key="Content.modified" value="Thu Feb 27 19:17:11 MST 2020"/>
         </resource>
         <fillColor>#F1A83E</fillColor>
         <strokeColor>#000000</strokeColor>
@@ -1983,19 +1982,19 @@
         <font>Arial-plain-12</font>
         <URIString>http://vue.tufts.edu/rdf/resource/894236aa7f00010119aefff3d76e12e7</URIString>
         <child ID="186" created="1582850443775" x="34.0" y="23.0"
-            width="128.0" height="15.350766" strokeWidth="0.0"
+            width="16.0" height="16.0" strokeWidth="0.0"
             autoSized="false" xsi:type="image">
             <resource referenceCreated="0" size="179819"
                 spec="C:\Users\ellag\Documents\GitHub\maydaymystery\megamap_files\clips\1989-05-01_page24\5-reformation-hops.jpg"
                 type="1" xsi:type="URLResource">
                 <title>5-reformation-hops.jpg</title>
-                <property key="Content.size" value="179819"/>
-                <property key="Content.modified" value="Thu Feb 27 19:17:11 MST 2020"/>
                 <property key="image.width" value="4436"/>
                 <property key="image.height" value="532"/>
                 <property key="image.format" value="JPEG"/>
                 <property key="@file.relative" value="megamap_files/clips/1989-05-01_page24/5-reformation-hops.jpg"/>
                 <property key="File" value="megamap_files/clips/1989-05-01_page24/5-reformation-hops.jpg"/>
+                <property key="Content.size" value="179819"/>
+                <property key="Content.modified" value="Thu Feb 27 19:17:11 MST 2020"/>
             </resource>
             <strokeColor>#404040</strokeColor>
             <textColor>#000000</textColor>
@@ -2005,7 +2004,7 @@
         <shape arcwidth="20.0" archeight="20.0" xsi:type="roundRect"/>
     </child>
     <child ID="187" label="6" layerID="1" created="1582850447974"
-        x="477.19968" y="1565.3406" width="167.0" height="39.994576"
+        x="477.19968" y="1565.3406" width="55.0" height="45.0"
         strokeWidth="1.0" autoSized="true" xsi:type="node">
         <resource referenceCreated="0" size="125561"
             spec="C:\Users\ellag\Documents\GitHub\maydaymystery\megamap_files\clips\1989-05-01_page24\6-history-different.jpg"
@@ -2025,7 +2024,7 @@
         <font>Arial-plain-12</font>
         <URIString>http://vue.tufts.edu/rdf/resource/894236ac7f00010119aefff39656fe97</URIString>
         <child ID="188" created="1582850447974" x="34.0" y="23.0"
-            width="128.0" height="10.9945755" strokeWidth="0.0"
+            width="16.0" height="16.0" strokeWidth="0.0"
             autoSized="false" xsi:type="image">
             <resource referenceCreated="0" size="125561"
                 spec="C:\Users\ellag\Documents\GitHub\maydaymystery\megamap_files\clips\1989-05-01_page24\6-history-different.jpg"
@@ -2047,7 +2046,7 @@
         <shape arcwidth="20.0" archeight="20.0" xsi:type="roundRect"/>
     </child>
     <child ID="189" layerID="1" created="1582850514076" x="408.8609"
-        y="1325.7599" width="66.67862" height="105.04724"
+        y="1325.2223" width="66.67862" height="105.58484"
         strokeWidth="2.0" autoSized="false" controlCount="1"
         arrowState="2" xsi:type="link">
         <strokeColor>#404040</strokeColor>
@@ -2055,13 +2054,13 @@
         <font>Arial-plain-11</font>
         <URIString>http://vue.tufts.edu/rdf/resource/894236ae7f00010119aefff3de4124ce</URIString>
         <point1 x="409.8609" y="1429.8071"/>
-        <point2 x="474.53952" y="1326.7599"/>
+        <point2 x="474.53952" y="1326.2223"/>
         <ID1 xsi:type="node">174</ID1>
         <ID2 xsi:type="node">177</ID2>
         <ctrlPoint0 x="419.97995" y="1329.356" xsi:type="point"/>
     </child>
     <child ID="190" layerID="1" created="1582850515308" x="410.36182"
-        y="1368.6226" width="65.55368" height="62.18457"
+        y="1370.345" width="65.55368" height="60.46216"
         strokeWidth="2.0" autoSized="false" controlCount="1"
         arrowState="2" xsi:type="link">
         <strokeColor>#404040</strokeColor>
@@ -2069,13 +2068,13 @@
         <font>Arial-plain-11</font>
         <URIString>http://vue.tufts.edu/rdf/resource/894236ae7f00010119aefff396061dbf</URIString>
         <point1 x="411.36182" y="1429.8071"/>
-        <point2 x="474.9155" y="1369.6226"/>
+        <point2 x="474.9155" y="1371.345"/>
         <ID1 xsi:type="node">174</ID1>
         <ID2 xsi:type="node">179</ID2>
         <ctrlPoint0 x="425.21286" y="1369.9106" xsi:type="point"/>
     </child>
     <child ID="191" layerID="1" created="1582850516178" x="413.067"
-        y="1415.7821" width="64.24695" height="15.025024"
+        y="1416.9225" width="64.24695" height="13.884644"
         strokeWidth="2.0" autoSized="false" controlCount="1"
         arrowState="2" xsi:type="link">
         <strokeColor>#404040</strokeColor>
@@ -2083,7 +2082,7 @@
         <font>Arial-plain-11</font>
         <URIString>http://vue.tufts.edu/rdf/resource/894236af7f00010119aefff359c5381c</URIString>
         <point1 x="414.067" y="1429.8071"/>
-        <point2 x="476.31393" y="1416.7821"/>
+        <point2 x="476.31393" y="1418.3755"/>
         <ID1 xsi:type="node">174</ID1>
         <ID2 xsi:type="node">181</ID2>
         <ctrlPoint0 x="420.85202" y="1415.2622" xsi:type="point"/>
@@ -2103,7 +2102,7 @@
         <ctrlPoint0 x="424.77682" y="1475.8762" xsi:type="point"/>
     </child>
     <child ID="193" layerID="1" created="1582850517860" x="410.67648"
-        y="1451.8071" width="65.60474" height="81.96118"
+        y="1451.8071" width="65.60474" height="82.66626"
         strokeWidth="2.0" autoSized="false" controlCount="1"
         arrowState="2" xsi:type="link">
         <strokeColor>#404040</strokeColor>
@@ -2111,13 +2110,13 @@
         <font>Arial-plain-11</font>
         <URIString>http://vue.tufts.edu/rdf/resource/894236b17f00010119aefff3e6cb882a</URIString>
         <point1 x="411.67648" y="1452.8071"/>
-        <point2 x="475.28122" y="1532.7683"/>
+        <point2 x="475.28122" y="1533.4734"/>
         <ID1 xsi:type="node">174</ID1>
         <ID2 xsi:type="node">185</ID2>
         <ctrlPoint0 x="432.1904" y="1532.1294" xsi:type="point"/>
     </child>
     <child ID="194" layerID="1" created="1582850520116" x="408.38367"
-        y="1451.8071" width="69.81601" height="135.79639"
+        y="1451.8071" width="69.81601" height="136.92944"
         strokeWidth="2.0" autoSized="false" controlCount="1"
         arrowState="2" xsi:type="link">
         <strokeColor>#404040</strokeColor>
@@ -2125,7 +2124,7 @@
         <font>Arial-plain-11</font>
         <URIString>http://vue.tufts.edu/rdf/resource/894236b27f00010119aefff312eb965b</URIString>
         <point1 x="409.38367" y="1452.8071"/>
-        <point2 x="477.19968" y="1586.6035"/>
+        <point2 x="477.19968" y="1587.7366"/>
         <ID1 xsi:type="node">174</ID1>
         <ID2 xsi:type="node">187</ID2>
         <ctrlPoint0 x="417.36325" y="1587.5105" xsi:type="point"/>
@@ -2246,9 +2245,8 @@
         <ctrlPoint0 x="138.397" y="1172.892" xsi:type="point"/>
     </child>
     <child ID="201" label="Leitmotiv" layerID="1"
-        created="1582850745397" x="350.81522" y="1240.5452"
-        width="295.0" height="43.068466" strokeWidth="1.0"
-        autoSized="true" xsi:type="node">
+        created="1582850745397" x="350.81522" y="1240.5452" width="88.0"
+        height="45.0" strokeWidth="1.0" autoSized="true" xsi:type="node">
         <resource referenceCreated="0" size="80119"
             spec="C:\Users\ellag\Documents\GitHub\maydaymystery\megamap_files\clips\1989-05-01_page24\leitmotiv-papa.jpg"
             type="1" xsi:type="URLResource">
@@ -2267,7 +2265,7 @@
         <font>Arial-plain-12</font>
         <URIString>http://vue.tufts.edu/rdf/resource/894236b97f00010119aefff36cdb7974</URIString>
         <child ID="202" created="1582850745397" x="34.0" y="23.0"
-            width="256.0" height="14.068468" strokeWidth="0.0"
+            width="16.0" height="16.0" strokeWidth="0.0"
             autoSized="false" xsi:type="image">
             <resource referenceCreated="0" size="80119"
                 spec="C:\Users\ellag\Documents\GitHub\maydaymystery\megamap_files\clips\1989-05-01_page24\leitmotiv-papa.jpg"
@@ -2500,8 +2498,7 @@
     </child>
     <child ID="219" label="Ora pro nobis..." layerID="1"
         created="1582850827872" x="-316.11325" y="1775.5009"
-        width="167.0" height="39.306496" strokeWidth="1.0"
-        autoSized="true" xsi:type="node">
+        width="123.0" height="45.0" strokeWidth="1.0" autoSized="true" xsi:type="node">
         <resource referenceCreated="0" size="28851"
             spec="C:\Users\ellag\Documents\GitHub\maydaymystery\megamap_files\clips\1989-05-01_page24\etc-ora-pro.jpg"
             type="1" xsi:type="URLResource">
@@ -2520,7 +2517,7 @@
         <font>Arial-plain-12</font>
         <URIString>http://vue.tufts.edu/rdf/resource/89492c9d7f00010119aefff3268638e9</URIString>
         <child ID="220" created="1582850827871" x="34.0" y="23.0"
-            width="128.0" height="10.306494" strokeWidth="0.0"
+            width="16.0" height="16.0" strokeWidth="0.0"
             autoSized="false" xsi:type="image">
             <resource referenceCreated="0" size="28851"
                 spec="C:\Users\ellag\Documents\GitHub\maydaymystery\megamap_files\clips\1989-05-01_page24\etc-ora-pro.jpg"
@@ -2640,8 +2637,8 @@
         <ID2 xsi:type="node">213</ID2>
         <ctrlPoint0 x="-81.20346" y="1739.1019" xsi:type="point"/>
     </child>
-    <child ID="228" layerID="1" created="1582851003864" x="-150.11325"
-        y="1604.0901" width="94.58673" height="191.80298"
+    <child ID="228" layerID="1" created="1582851003864" x="-194.11325"
+        y="1604.0901" width="138.58673" height="193.77649"
         strokeWidth="2.0" autoSized="false" controlCount="1"
         arrowState="2" xsi:type="link">
         <strokeColor>#404040</strokeColor>
@@ -2649,7 +2646,7 @@
         <font>Arial-plain-11</font>
         <URIString>http://vue.tufts.edu/rdf/resource/89492c9f7f00010119aefff3d0eb7df3</URIString>
         <point1 x="-56.52652" y="1605.0901"/>
-        <point2 x="-149.11325" y="1794.8931"/>
+        <point2 x="-193.11325" y="1796.8666"/>
         <ID1 xsi:type="node">173</ID1>
         <ID2 xsi:type="node">219</ID2>
         <ctrlPoint0 x="-73.26706" y="1794.6561" xsi:type="point"/>
@@ -2669,7 +2666,7 @@
         <ctrlPoint0 x="316.05826" y="1440.302" xsi:type="point"/>
     </child>
     <child ID="233" layerID="1" created="1582851107165" x="257.31268"
-        y="1261.562" width="94.50253" height="45.91101"
+        y="1261.9152" width="94.50253" height="45.55786"
         strokeWidth="2.0" autoSized="false" controlCount="1"
         arrowState="2" xsi:type="link">
         <strokeColor>#404040</strokeColor>
@@ -2677,7 +2674,7 @@
         <font>Arial-plain-11</font>
         <URIString>http://vue.tufts.edu/rdf/resource/89492ca07f00010119aefff3758f99c6</URIString>
         <point1 x="258.31268" y="1306.473"/>
-        <point2 x="350.81522" y="1262.562"/>
+        <point2 x="350.81522" y="1262.9152"/>
         <ID1 xsi:type="node">135</ID1>
         <ID2 xsi:type="node">201</ID2>
         <ctrlPoint0 x="294.08365" y="1262.7477" xsi:type="point"/>
@@ -2808,7 +2805,7 @@
         y="0.0" width="1.4E-45" height="1.4E-45" strokeWidth="0.0" autoSized="false">
         <URIString>http://vue.tufts.edu/rdf/resource/7e2ba576c0a83801015d1e0931034ec8</URIString>
     </layer>
-    <userZoom>0.8665107528534589</userZoom>
+    <userZoom>1.0</userZoom>
     <userOrigin x="-1532.7394" y="-928.50165"/>
     <presentationBackground>#202020</presentationBackground>
     <PathwayList currentPathway="0" revealerIndex="-1">
@@ -2828,7 +2825,7 @@
                 <font>SansSerif-plain-14</font>
                 <URIString>http://vue.tufts.edu/rdf/resource/7e2ba577c0a83801015d1e0980c4fd13</URIString>
                 <titleStyle ID="3" label="Header"
-                    created="1582664709551" x="328.5" y="174.5"
+                    created="1582664709551" x="335.5" y="172.5"
                     width="129.0" height="55.0" strokeWidth="0.0"
                     autoSized="true" isStyle="true" xsi:type="node">
                     <strokeColor>#404040</strokeColor>
@@ -2838,7 +2835,7 @@
                     <shape xsi:type="rectangle"/>
                 </titleStyle>
                 <textStyle ID="4" label="Slide Text"
-                    created="1582664709552" x="339.0" y="282.5"
+                    created="1582664709552" x="346.5" y="281.5"
                     width="107.0" height="37.0" strokeWidth="0.0"
                     autoSized="true" isStyle="true" xsi:type="node">
                     <strokeColor>#404040</strokeColor>
@@ -2848,7 +2845,7 @@
                     <shape xsi:type="rectangle"/>
                 </textStyle>
                 <linkStyle ID="5" label="Links" created="1582664709554"
-                    x="371.5" y="385.0" width="53.0" height="32.0"
+                    x="373.5" y="384.0" width="53.0" height="32.0"
                     strokeWidth="0.0" autoSized="true" isStyle="true" xsi:type="node">
                     <strokeColor>#404040</strokeColor>
                     <textColor>#B3BFE3</textColor>
