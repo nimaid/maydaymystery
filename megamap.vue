@@ -1,14 +1,14 @@
 <!-- Tufts VUE 3.3.0 concept-map (megamap.vue) 2020-02-29 -->
 <!-- Tufts VUE: http://vue.tufts.edu/ -->
 <!-- Do Not Remove: VUE mapping @version(1.1) jar:file:/C:/Program%20Files%20(x86)/VUE/VUE.jar!/tufts/vue/resources/lw_mapping_1_1.xml -->
-<!-- Do Not Remove: Saved date Sat Feb 29 18:57:40 MST 2020 by ellag on platform Windows 8 6.2 in JVM 1.7.0_21-b11 -->
+<!-- Do Not Remove: Saved date Sat Feb 29 22:24:53 MST 2020 by ellag on platform Windows 8 6.2 in JVM 1.7.0_21-b11 -->
 <!-- Do Not Remove: Saving version @(#)VUE: built October 8 2015 at 1658 by tomadm on Linux 2.6.32-504.23.4.el6.x86_64 i386 JVM 1.7.0_21-b11(bits=32) -->
 <?xml version="1.0" encoding="US-ASCII"?>
 <LW-MAP xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:noNamespaceSchemaLocation="none" ID="0" label="megamap.vue"
     created="1582664709072" x="0.0" y="0.0" width="1540.4739"
     height="1651.1401" strokeWidth="0.0" autoSized="false">
-    <resource referenceCreated="1583027860503" size="165553"
+    <resource referenceCreated="1583040293752" size="197287"
         spec="C:\Users\ellag\Documents\GitHub\maydaymystery\megamap.vue"
         type="1" xsi:type="URLResource">
         <title>megamap.vue</title>
@@ -1926,13 +1926,13 @@
             spec="C:\Users\ellag\Documents\GitHub\maydaymystery\megamap_files\clips\1989-05-01_page24\4-ragged.jpg"
             type="1" xsi:type="URLResource">
             <title>4-ragged.jpg</title>
-            <property key="@file.relative" value="megamap_files/clips/1989-05-01_page24/4-ragged.jpg"/>
-            <property key="File" value="megamap_files/clips/1989-05-01_page24/4-ragged.jpg"/>
             <property key="Content.size" value="313862"/>
             <property key="Content.modified" value="Thu Feb 27 19:17:11 MST 2020"/>
             <property key="image.width" value="4436"/>
             <property key="image.height" value="812"/>
             <property key="image.format" value="JPEG"/>
+            <property key="@file.relative" value="megamap_files/clips/1989-05-01_page24/4-ragged.jpg"/>
+            <property key="File" value="megamap_files/clips/1989-05-01_page24/4-ragged.jpg"/>
         </resource>
         <fillColor>#F1A83E</fillColor>
         <strokeColor>#000000</strokeColor>
@@ -1946,13 +1946,13 @@
                 spec="C:\Users\ellag\Documents\GitHub\maydaymystery\megamap_files\clips\1989-05-01_page24\4-ragged.jpg"
                 type="1" xsi:type="URLResource">
                 <title>4-ragged.jpg</title>
-                <property key="@file.relative" value="megamap_files/clips/1989-05-01_page24/4-ragged.jpg"/>
-                <property key="File" value="megamap_files/clips/1989-05-01_page24/4-ragged.jpg"/>
                 <property key="Content.size" value="313862"/>
                 <property key="Content.modified" value="Thu Feb 27 19:17:11 MST 2020"/>
                 <property key="image.width" value="4436"/>
                 <property key="image.height" value="812"/>
                 <property key="image.format" value="JPEG"/>
+                <property key="@file.relative" value="megamap_files/clips/1989-05-01_page24/4-ragged.jpg"/>
+                <property key="File" value="megamap_files/clips/1989-05-01_page24/4-ragged.jpg"/>
             </resource>
             <strokeColor>#404040</strokeColor>
             <textColor>#000000</textColor>
@@ -1968,13 +1968,13 @@
             spec="C:\Users\ellag\Documents\GitHub\maydaymystery\megamap_files\clips\1989-05-01_page24\5-reformation-hops.jpg"
             type="1" xsi:type="URLResource">
             <title>5-reformation-hops.jpg</title>
+            <property key="Content.size" value="179819"/>
+            <property key="Content.modified" value="Thu Feb 27 19:17:11 MST 2020"/>
             <property key="image.width" value="4436"/>
             <property key="image.height" value="532"/>
             <property key="image.format" value="JPEG"/>
             <property key="@file.relative" value="megamap_files/clips/1989-05-01_page24/5-reformation-hops.jpg"/>
             <property key="File" value="megamap_files/clips/1989-05-01_page24/5-reformation-hops.jpg"/>
-            <property key="Content.size" value="179819"/>
-            <property key="Content.modified" value="Thu Feb 27 19:17:11 MST 2020"/>
         </resource>
         <fillColor>#F1A83E</fillColor>
         <strokeColor>#000000</strokeColor>
@@ -1988,13 +1988,13 @@
                 spec="C:\Users\ellag\Documents\GitHub\maydaymystery\megamap_files\clips\1989-05-01_page24\5-reformation-hops.jpg"
                 type="1" xsi:type="URLResource">
                 <title>5-reformation-hops.jpg</title>
+                <property key="Content.size" value="179819"/>
+                <property key="Content.modified" value="Thu Feb 27 19:17:11 MST 2020"/>
                 <property key="image.width" value="4436"/>
                 <property key="image.height" value="532"/>
                 <property key="image.format" value="JPEG"/>
                 <property key="@file.relative" value="megamap_files/clips/1989-05-01_page24/5-reformation-hops.jpg"/>
                 <property key="File" value="megamap_files/clips/1989-05-01_page24/5-reformation-hops.jpg"/>
-                <property key="Content.size" value="179819"/>
-                <property key="Content.modified" value="Thu Feb 27 19:17:11 MST 2020"/>
             </resource>
             <strokeColor>#404040</strokeColor>
             <textColor>#000000</textColor>
@@ -2801,12 +2801,603 @@
         </child>
         <shape arcwidth="20.0" archeight="20.0" xsi:type="roundRect"/>
     </child>
+    <child ID="245" label="THEORY:" layerID="1" created="1583035994587"
+        x="-4495.1855" y="-1190.0516" width="627.0" height="193.25"
+        strokeWidth="1.0" autoSized="true" xsi:type="node">
+        <fillColor>#F4E5FF</fillColor>
+        <strokeColor>#000000</strokeColor>
+        <textColor>#000000</textColor>
+        <font>Arial-boldunderline-54</font>
+        <URIString>http://vue.tufts.edu/rdf/resource/945a8c7dc0a8380100dbd3ed33e11f9e</URIString>
+        <child ID="279"
+            label="Robert Truman Hungerford is running ads&#xa;to cause people to look into matters that,&#xa;hopefully, will inspire a movement."
+            created="1583038806688" x="34.0" y="71.0" width="783.0"
+            height="155.0" strokeWidth="1.0" autoSized="true" xsi:type="node">
+            <fillColor>#F4E5FF</fillColor>
+            <strokeColor>#000000</strokeColor>
+            <textColor>#000000</textColor>
+            <font>Arial-italic-42</font>
+            <URIString>http://vue.tufts.edu/rdf/resource/94794c21c0a8380100dbd3edfd404560</URIString>
+            <shape arcwidth="20.0" archeight="20.0" xsi:type="roundRect"/>
+        </child>
+        <shape arcwidth="20.0" archeight="20.0" xsi:type="roundRect"/>
+    </child>
+    <child ID="246"
+        label="https://www.familytreenow.com/records/people/garrison/cynthia/0jsgizdgvyalylv5f8rwqa"
+        layerID="1" created="1583036842451" x="-4926.543" y="-204.03424"
+        width="679.0" height="657.2436" strokeWidth="1.0"
+        autoSized="true" xsi:type="node">
+        <resource referenceCreated="0" size="94742"
+            spec="C:\Users\ellag\Documents\GitHub\maydaymystery\megamap_files\clips\srcl_richmond_family\familytree.png"
+            type="1" xsi:type="URLResource">
+            <title>familytree.png</title>
+            <property key="Content.size" value="94742"/>
+            <property key="Content.modified" value="Sat Feb 29 21:26:57 MST 2020"/>
+            <property key="image.width" value="977"/>
+            <property key="image.height" value="956"/>
+            <property key="image.format" value="png"/>
+            <property key="@file.relative" value="megamap_files/clips/srcl_richmond_family/familytree.png"/>
+            <property key="File" value="megamap_files/clips/srcl_richmond_family/familytree.png"/>
+        </resource>
+        <fillColor>#C6E8FF</fillColor>
+        <strokeColor>#000000</strokeColor>
+        <textColor>#000000</textColor>
+        <font>Arial-bold-14</font>
+        <URIString>http://vue.tufts.edu/rdf/resource/945a8c7dc0a8380100dbd3ed47f1f8c7</URIString>
+        <child ID="247" created="1583036842450" x="34.0" y="25.0"
+            width="640.0" height="626.2436" strokeWidth="0.0"
+            autoSized="false" xsi:type="image">
+            <resource referenceCreated="0" size="94742"
+                spec="C:\Users\ellag\Documents\GitHub\maydaymystery\megamap_files\clips\srcl_richmond_family\familytree.png"
+                type="1" xsi:type="URLResource">
+                <title>familytree.png</title>
+                <property key="Content.size" value="94742"/>
+                <property key="Content.modified" value="Sat Feb 29 21:26:57 MST 2020"/>
+                <property key="image.width" value="977"/>
+                <property key="image.height" value="956"/>
+                <property key="image.format" value="png"/>
+                <property key="@file.relative" value="megamap_files/clips/srcl_richmond_family/familytree.png"/>
+                <property key="File" value="megamap_files/clips/srcl_richmond_family/familytree.png"/>
+            </resource>
+            <strokeColor>#404040</strokeColor>
+            <textColor>#000000</textColor>
+            <font>SansSerif-plain-14</font>
+            <URIString>http://vue.tufts.edu/rdf/resource/945a8c7ec0a8380100dbd3ed739b6711</URIString>
+        </child>
+        <shape arcwidth="20.0" archeight="20.0" xsi:type="roundRect"/>
+    </child>
+    <child ID="248"
+        label="https://www.legacy.com/obituaries/azcentral/&#xa;obituary.aspx?n=robert-d-hungerford&amp;pid=136199059"
+        layerID="1" created="1583037285510" x="-3960.872" y="-175.93195"
+        width="414.0" height="560.0" strokeWidth="1.0" autoSized="true" xsi:type="node">
+        <resource referenceCreated="0" accessAttempted="1583037300033"
+            accessSuccessful="1583037300422" size="157475"
+            spec="C:\Users\ellag\Documents\GitHub\maydaymystery\megamap_files\clips\srcl_richmond_family\obituary.png"
+            type="1" xsi:type="URLResource">
+            <title>obituary.png</title>
+            <property key="Content.size" value="157475"/>
+            <property key="Content.modified" value="Sat Feb 29 21:33:53 MST 2020"/>
+            <property key="image.width" value="583"/>
+            <property key="image.height" value="816"/>
+            <property key="image.format" value="png"/>
+            <property key="@file.relative" value="megamap_files/clips/srcl_richmond_family/obituary.png"/>
+            <property key="File" value="megamap_files/clips/srcl_richmond_family/obituary.png"/>
+        </resource>
+        <fillColor>#C6E8FF</fillColor>
+        <strokeColor>#000000</strokeColor>
+        <textColor>#000000</textColor>
+        <font>Arial-bold-14</font>
+        <URIString>http://vue.tufts.edu/rdf/resource/9470ceeac0a8380100dbd3edb23f1ff7</URIString>
+        <child ID="249" created="1583037285509" x="34.0" y="42.0"
+            width="365.80392" height="512.0" strokeWidth="0.0"
+            autoSized="false" xsi:type="image">
+            <resource referenceCreated="0"
+                accessAttempted="1583037300033"
+                accessSuccessful="1583037300422" size="157475"
+                spec="C:\Users\ellag\Documents\GitHub\maydaymystery\megamap_files\clips\srcl_richmond_family\obituary.png"
+                type="1" xsi:type="URLResource">
+                <title>obituary.png</title>
+                <property key="Content.size" value="157475"/>
+                <property key="Content.modified" value="Sat Feb 29 21:33:53 MST 2020"/>
+                <property key="image.width" value="583"/>
+                <property key="image.height" value="816"/>
+                <property key="image.format" value="png"/>
+                <property key="@file.relative" value="megamap_files/clips/srcl_richmond_family/obituary.png"/>
+                <property key="File" value="megamap_files/clips/srcl_richmond_family/obituary.png"/>
+            </resource>
+            <strokeColor>#404040</strokeColor>
+            <textColor>#000000</textColor>
+            <font>SansSerif-plain-14</font>
+            <URIString>http://vue.tufts.edu/rdf/resource/9470ceebc0a8380100dbd3ed582a4927</URIString>
+        </child>
+        <shape arcwidth="20.0" archeight="20.0" xsi:type="roundRect"/>
+    </child>
+    <child ID="250" label="Cynthia L. Garrison" layerID="1"
+        created="1583037499767" x="-4680.9053" y="-859.64813"
+        width="235.0" height="37.0" strokeWidth="1.0" autoSized="true" xsi:type="node">
+        <fillColor>#ECFFD4</fillColor>
+        <strokeColor>#000000</strokeColor>
+        <textColor>#000000</textColor>
+        <font>Arial-bold-24</font>
+        <URIString>http://vue.tufts.edu/rdf/resource/9470ceebc0a8380100dbd3ed8b8fa2b6</URIString>
+        <shape arcwidth="20.0" archeight="20.0" xsi:type="roundRect"/>
+    </child>
+    <child ID="251" label="Robert Truman Hungerford" layerID="1"
+        created="1583037535141" x="-3493.9287" y="-587.6743"
+        width="321.0" height="37.0" strokeWidth="1.0" autoSized="true" xsi:type="node">
+        <fillColor>#ECFFD4</fillColor>
+        <strokeColor>#000000</strokeColor>
+        <textColor>#000000</textColor>
+        <font>Arial-bold-24</font>
+        <URIString>http://vue.tufts.edu/rdf/resource/9470ceebc0a8380100dbd3ed776a1b8f</URIString>
+        <shape arcwidth="20.0" archeight="20.0" xsi:type="roundRect"/>
+    </child>
+    <child ID="252" label="Stuart R. Garrison" layerID="1"
+        created="1583037562745" x="-5206.8413" y="-371.84097"
+        width="218.0" height="37.0" strokeWidth="1.0" autoSized="true" xsi:type="node">
+        <fillColor>#ECFFD4</fillColor>
+        <strokeColor>#000000</strokeColor>
+        <textColor>#000000</textColor>
+        <font>Arial-bold-24</font>
+        <URIString>http://vue.tufts.edu/rdf/resource/9470ceebc0a8380100dbd3ed01164efb</URIString>
+        <shape arcwidth="20.0" archeight="20.0" xsi:type="roundRect"/>
+    </child>
+    <child ID="253" label="Tucson, AZ" layerID="1"
+        created="1583037587052" x="-3797.8374" y="-721.4182"
+        width="142.0" height="37.0" strokeWidth="1.0" autoSized="true" xsi:type="node">
+        <fillColor>#ECFFD4</fillColor>
+        <strokeColor>#000000</strokeColor>
+        <textColor>#000000</textColor>
+        <font>Arial-bold-24</font>
+        <URIString>http://vue.tufts.edu/rdf/resource/9470ceebc0a8380100dbd3edd1fe2b69</URIString>
+        <shape arcwidth="20.0" archeight="20.0" xsi:type="roundRect"/>
+    </child>
+    <child ID="254" label="Richmond, VA" layerID="1"
+        created="1583037593245" x="-4129.5244" y="-748.54877"
+        width="176.0" height="37.0" strokeWidth="1.0" autoSized="true" xsi:type="node">
+        <fillColor>#ECFFD4</fillColor>
+        <strokeColor>#000000</strokeColor>
+        <textColor>#000000</textColor>
+        <font>Arial-bold-24</font>
+        <URIString>http://vue.tufts.edu/rdf/resource/9470ceebc0a8380100dbd3ed710b9fc7</URIString>
+        <shape arcwidth="20.0" archeight="20.0" xsi:type="roundRect"/>
+    </child>
+    <child ID="264"
+        label="Stuart R. Garrison + Cynthia L. Garrison = married"
+        layerID="1" created="1583037959894" x="-4066.7617" y="-453.8504"
+        width="386.0" height="51.804672" strokeWidth="1.0"
+        autoSized="false" xsi:type="node">
+        <fillColor>#C6E8FF</fillColor>
+        <strokeColor>#000000</strokeColor>
+        <textColor>#000000</textColor>
+        <font>Arial-bold-16</font>
+        <URIString>http://vue.tufts.edu/rdf/resource/9470ceebc0a8380100dbd3eda5b710d2</URIString>
+        <shape arcwidth="20.0" archeight="20.0" xsi:type="roundRect"/>
+    </child>
+    <child ID="265"
+        label="https://www.fredericksburg.com/obituaries/garrison-carl/&#xa;article_9a99ed73-5d6d-5718-ae46-cbf801e8181a.html"
+        layerID="1" created="1583038336689" x="-3410.7559" y="-192.9198"
+        width="531.01953" height="564.0" strokeWidth="1.0"
+        autoSized="true" xsi:type="node">
+        <resource referenceCreated="0" accessAttempted="1583038371812"
+            accessSuccessful="1583038371829" size="327635"
+            spec="C:\Users\ellag\Documents\GitHub\maydaymystery\megamap_files\clips\srcl_richmond_family\obituary2.png"
+            type="1" xsi:type="URLResource">
+            <title>obituary2.png</title>
+            <property key="Content.size" value="327635"/>
+            <property key="Content.modified" value="Sat Feb 29 21:52:07 MST 2020"/>
+            <property key="image.width" value="788"/>
+            <property key="image.height" value="820"/>
+            <property key="image.format" value="png"/>
+            <property key="@file.relative" value="megamap_files/clips/srcl_richmond_family/obituary2.png"/>
+            <property key="File" value="megamap_files/clips/srcl_richmond_family/obituary2.png"/>
+        </resource>
+        <fillColor>#C6E8FF</fillColor>
+        <strokeColor>#000000</strokeColor>
+        <textColor>#000000</textColor>
+        <font>Arial-bold-16</font>
+        <URIString>http://vue.tufts.edu/rdf/resource/9470ceecc0a8380100dbd3edcdbaf52c</URIString>
+        <child ID="266" created="1583038336688" x="34.0" y="46.0"
+            width="492.0195" height="512.0" strokeWidth="0.0"
+            autoSized="false" xsi:type="image">
+            <resource referenceCreated="0"
+                accessAttempted="1583038371812"
+                accessSuccessful="1583038371829" size="327635"
+                spec="C:\Users\ellag\Documents\GitHub\maydaymystery\megamap_files\clips\srcl_richmond_family\obituary2.png"
+                type="1" xsi:type="URLResource">
+                <title>obituary2.png</title>
+                <property key="Content.size" value="327635"/>
+                <property key="Content.modified" value="Sat Feb 29 21:52:07 MST 2020"/>
+                <property key="image.width" value="788"/>
+                <property key="image.height" value="820"/>
+                <property key="image.format" value="png"/>
+                <property key="@file.relative" value="megamap_files/clips/srcl_richmond_family/obituary2.png"/>
+                <property key="File" value="megamap_files/clips/srcl_richmond_family/obituary2.png"/>
+            </resource>
+            <strokeColor>#404040</strokeColor>
+            <textColor>#000000</textColor>
+            <font>SansSerif-plain-14</font>
+            <URIString>http://vue.tufts.edu/rdf/resource/9470ceecc0a8380100dbd3ed1abebd5f</URIString>
+        </child>
+        <shape arcwidth="20.0" archeight="20.0" xsi:type="roundRect"/>
+    </child>
+    <child ID="267" layerID="1" created="1583038469658" x="-3870.4243"
+        y="-404.54492" width="55.954346" height="231.11328"
+        strokeWidth="5.0" autoSized="false" controlCount="0"
+        arrowState="2" xsi:type="link">
+        <strokeColor>#30D643</strokeColor>
+        <textColor>#404040</textColor>
+        <font>Arial-plain-11</font>
+        <URIString>http://vue.tufts.edu/rdf/resource/94753e42c0a8380100dbd3ed9342c1cb</URIString>
+        <point1 x="-3816.97" y="-175.93164"/>
+        <point2 x="-3867.9243" y="-402.04492"/>
+        <ID1 xsi:type="node">248</ID1>
+        <ID2 xsi:type="node">264</ID2>
+    </child>
+    <child ID="268" layerID="1" created="1583038481859" x="-3839.7637"
+        y="-404.54565" width="431.50806" height="307.69336"
+        strokeWidth="5.0" autoSized="false" controlCount="0"
+        arrowState="2" xsi:type="link">
+        <strokeColor>#30D643</strokeColor>
+        <textColor>#404040</textColor>
+        <font>Arial-plain-11</font>
+        <URIString>http://vue.tufts.edu/rdf/resource/94753e42c0a8380100dbd3ed36f5f088</URIString>
+        <point1 x="-3410.7559" y="-99.352295"/>
+        <point2 x="-3837.264" y="-402.04565"/>
+        <ID1 xsi:type="node">265</ID1>
+        <ID2 xsi:type="node">264</ID2>
+    </child>
+    <child ID="269" label="Stuart R. Garrison lives in Tucson, AZ"
+        layerID="1" created="1583038504376" x="-3263.5513"
+        y="-458.63513" width="294.0" height="27.255123"
+        strokeWidth="1.0" autoSized="false" xsi:type="node">
+        <fillColor>#C6E8FF</fillColor>
+        <strokeColor>#000000</strokeColor>
+        <textColor>#000000</textColor>
+        <font>Arial-bold-16</font>
+        <URIString>http://vue.tufts.edu/rdf/resource/94753e42c0a8380100dbd3edb70bca9c</URIString>
+        <shape arcwidth="20.0" archeight="20.0" xsi:type="roundRect"/>
+    </child>
+    <child ID="270" layerID="1" created="1583038585458" x="-3132.595"
+        y="-433.8828" width="17.811523" height="243.46484"
+        strokeWidth="5.0" autoSized="false" controlCount="0"
+        arrowState="2" xsi:type="link">
+        <strokeColor>#30D643</strokeColor>
+        <textColor>#404040</textColor>
+        <font>Arial-plain-11</font>
+        <URIString>http://vue.tufts.edu/rdf/resource/94753e42c0a8380100dbd3ede7335f26</URIString>
+        <point1 x="-3130.095" y="-192.91797"/>
+        <point2 x="-3117.2834" y="-431.3828"/>
+        <ID1 xsi:type="node">265</ID1>
+        <ID2 xsi:type="node">269</ID2>
+    </child>
+    <child ID="271" layerID="1" created="1583038590979" x="-3549.372"
+        y="-433.88013" width="419.50317" height="362.10986"
+        strokeWidth="5.0" autoSized="false" controlCount="0"
+        arrowState="2" xsi:type="link">
+        <strokeColor>#30D643</strokeColor>
+        <textColor>#404040</textColor>
+        <font>Arial-plain-11</font>
+        <URIString>http://vue.tufts.edu/rdf/resource/94753e42c0a8380100dbd3ed7201ba42</URIString>
+        <point1 x="-3546.872" y="-74.27026"/>
+        <point2 x="-3132.369" y="-431.38013"/>
+        <ID1 xsi:type="node">248</ID1>
+        <ID2 xsi:type="node">269</ID2>
+    </child>
+    <child ID="272" label="Cynthia L. Garrison lives in Tucson, AZ"
+        layerID="1" created="1583038611976" x="-4508.166" y="-536.3722"
+        width="305.0" height="27.0" strokeWidth="1.0" autoSized="true" xsi:type="node">
+        <fillColor>#C6E8FF</fillColor>
+        <strokeColor>#000000</strokeColor>
+        <textColor>#000000</textColor>
+        <font>Arial-bold-16</font>
+        <URIString>http://vue.tufts.edu/rdf/resource/94753e42c0a8380100dbd3edb0879055</URIString>
+        <shape arcwidth="20.0" archeight="20.0" xsi:type="roundRect"/>
+    </child>
+    <child ID="273" layerID="1" created="1583038641745" x="-4472.1055"
+        y="-511.87207" width="114.11572" height="310.3379"
+        strokeWidth="5.0" autoSized="false" controlCount="0"
+        arrowState="2" xsi:type="link">
+        <strokeColor>#30D643</strokeColor>
+        <textColor>#404040</textColor>
+        <font>Arial-plain-11</font>
+        <URIString>http://vue.tufts.edu/rdf/resource/94753e43c0a8380100dbd3ed9030c120</URIString>
+        <point1 x="-4469.606" y="-204.03418"/>
+        <point2 x="-4360.49" y="-509.37207"/>
+        <ID1 xsi:type="node">246</ID1>
+        <ID2 xsi:type="node">272</ID2>
+    </child>
+    <child ID="276" label="Cynthia L. Garrison lived in Richmond, VA"
+        layerID="1" created="1583038694978" x="-4921.154" y="-496.323"
+        width="329.0" height="27.0" strokeWidth="1.0" autoSized="true" xsi:type="node">
+        <fillColor>#C6E8FF</fillColor>
+        <strokeColor>#000000</strokeColor>
+        <textColor>#000000</textColor>
+        <font>Arial-bold-16</font>
+        <URIString>http://vue.tufts.edu/rdf/resource/9475f6f1c0a8380100dbd3ed83694720</URIString>
+        <shape arcwidth="20.0" archeight="20.0" xsi:type="roundRect"/>
+    </child>
+    <child ID="277" layerID="1" created="1583038719628" x="-4755.3843"
+        y="-471.82227" width="79.078125" height="270.2871"
+        strokeWidth="5.0" autoSized="false" controlCount="0"
+        arrowState="2" xsi:type="link">
+        <strokeColor>#30D643</strokeColor>
+        <textColor>#404040</textColor>
+        <font>Arial-plain-11</font>
+        <URIString>http://vue.tufts.edu/rdf/resource/9475f6f1c0a8380100dbd3ed27e9a491</URIString>
+        <point1 x="-4678.806" y="-204.03516"/>
+        <point2 x="-4752.8843" y="-469.32227"/>
+        <ID1 xsi:type="node">246</ID1>
+        <ID2 xsi:type="node">276</ID2>
+    </child>
+    <child ID="278" layerID="1" created="1583038741964" x="-4250.043"
+        y="-404.54565" width="345.34326" height="268.6433"
+        strokeWidth="5.0" autoSized="false" controlCount="0"
+        arrowState="2" xsi:type="link">
+        <strokeColor>#30D643</strokeColor>
+        <textColor>#404040</textColor>
+        <font>Arial-plain-11</font>
+        <URIString>http://vue.tufts.edu/rdf/resource/94765932c0a8380100dbd3edcaa62efc</URIString>
+        <point1 x="-4247.543" y="-138.40234"/>
+        <point2 x="-3907.1997" y="-402.04565"/>
+        <ID1 xsi:type="node">246</ID1>
+        <ID2 xsi:type="node">264</ID2>
+    </child>
+    <child ID="283" label="SR/CL: Richmond" layerID="1"
+        created="1583039025886" x="-5091.1235" y="-839.41754"
+        width="201.75" height="170.23001" strokeWidth="1.0"
+        autoSized="true" xsi:type="node">
+        <fillColor>#FEFEC9</fillColor>
+        <strokeColor>#000000</strokeColor>
+        <textColor>#000000</textColor>
+        <font>Arial-boldunderline-18</font>
+        <URIString>http://vue.tufts.edu/rdf/resource/947e5804c0a8380100dbd3ed095314de</URIString>
+        <child ID="290" created="1583039164253" x="34.0" y="30.0"
+            width="128.0" height="64.48" strokeWidth="0.0"
+            autoSized="false" xsi:type="image">
+            <resource referenceCreated="0"
+                accessAttempted="1583039144293"
+                accessSuccessful="1583039144310" size="66632"
+                spec="C:\Users\ellag\Documents\GitHub\maydaymystery\texts\maydaymystery.org\1981-05-01.jpg"
+                type="1" xsi:type="URLResource">
+                <title>1981-05-01.jpg</title>
+                <property key="Content.size" value="66632"/>
+                <property key="Content.modified" value="Sun Feb 16 09:49:12 MST 2020"/>
+                <property key="image.width" value="800"/>
+                <property key="image.height" value="403"/>
+                <property key="image.format" value="JPEG"/>
+                <property key="@file.relative" value="texts/maydaymystery.org/1981-05-01.jpg"/>
+                <property key="File" value="texts/maydaymystery.org/1981-05-01.jpg"/>
+            </resource>
+            <strokeColor>#404040</strokeColor>
+            <textColor>#000000</textColor>
+            <font>SansSerif-plain-14</font>
+            <URIString>http://vue.tufts.edu/rdf/resource/947e5805c0a8380100dbd3ed0e6443c0</URIString>
+        </child>
+        <child ID="282" label="SR = Stuart R. Garrison"
+            created="1583039005818" x="34.0" y="97.48" width="187.0"
+            height="27.0" strokeWidth="1.0" autoSized="true" xsi:type="node">
+            <fillColor>#FEFEC9</fillColor>
+            <strokeColor>#000000</strokeColor>
+            <textColor>#000000</textColor>
+            <font>Arial-bold-16</font>
+            <URIString>http://vue.tufts.edu/rdf/resource/947e5805c0a8380100dbd3ed84084a38</URIString>
+            <shape arcwidth="20.0" archeight="20.0" xsi:type="roundRect"/>
+        </child>
+        <child ID="281" label="CL = Cynthia L. Garrison"
+            created="1583038985442" x="34.0" y="120.73" width="197.0"
+            height="27.0" strokeWidth="1.0" autoSized="true" xsi:type="node">
+            <fillColor>#FEFEC9</fillColor>
+            <strokeColor>#000000</strokeColor>
+            <textColor>#000000</textColor>
+            <font>Arial-bold-16</font>
+            <URIString>http://vue.tufts.edu/rdf/resource/947e5805c0a8380100dbd3ed88b8bfe0</URIString>
+            <shape arcwidth="20.0" archeight="20.0" xsi:type="roundRect"/>
+        </child>
+        <child ID="293" label="Richmond = Richmond, VA"
+            created="1583039221394" x="34.0" y="143.98001" width="216.0"
+            height="27.0" strokeWidth="1.0" autoSized="true" xsi:type="node">
+            <fillColor>#FEFEC9</fillColor>
+            <strokeColor>#000000</strokeColor>
+            <textColor>#000000</textColor>
+            <font>Arial-bold-16</font>
+            <URIString>http://vue.tufts.edu/rdf/resource/947e5805c0a8380100dbd3ed77bd62ba</URIString>
+            <shape arcwidth="20.0" archeight="20.0" xsi:type="roundRect"/>
+        </child>
+        <shape arcwidth="20.0" archeight="20.0" xsi:type="roundRect"/>
+    </child>
+    <child ID="301" layerID="1" created="1583039385861" x="-4897.6235"
+        y="-687.8886" width="143.28516" height="194.07611"
+        strokeWidth="5.0" autoSized="false" controlCount="1"
+        arrowState="2" xsi:type="link">
+        <strokeColor>#FEFB03</strokeColor>
+        <textColor>#404040</textColor>
+        <font>Arial-plain-11</font>
+        <URIString>http://vue.tufts.edu/rdf/resource/9482adbbc0a8380100dbd3ed12ed2d08</URIString>
+        <point1 x="-4756.8384" y="-496.3125"/>
+        <point2 x="-4895.1235" y="-685.3886"/>
+        <ID1 xsi:type="node">276</ID1>
+        <ID2 xsi:type="node">293</ID2>
+        <ctrlPoint0 x="-4759.423" y="-685.5162" xsi:type="point"/>
+    </child>
+    <child ID="302" layerID="1" created="1583039388125" x="-4911.8735"
+        y="-711.9254" width="159.47852" height="218.1051"
+        strokeWidth="5.0" autoSized="false" controlCount="1"
+        arrowState="2" xsi:type="link">
+        <strokeColor>#FEFB03</strokeColor>
+        <textColor>#404040</textColor>
+        <font>Arial-plain-11</font>
+        <URIString>http://vue.tufts.edu/rdf/resource/9482adbbc0a8380100dbd3eddb726ceb</URIString>
+        <point1 x="-4755.831" y="-496.3203"/>
+        <point2 x="-4909.3735" y="-709.4254"/>
+        <ID1 xsi:type="node">276</ID1>
+        <ID2 xsi:type="node">281</ID2>
+        <ctrlPoint0 x="-4742.724" y="-711.37195" xsi:type="point"/>
+    </child>
+    <child ID="304" layerID="1" created="1583039404937" x="-4911.885"
+        y="-715.2785" width="1003.3733" height="263.92816"
+        strokeWidth="5.0" autoSized="false" controlCount="1"
+        arrowState="2" xsi:type="link">
+        <strokeColor>#FEFB03</strokeColor>
+        <textColor>#404040</textColor>
+        <font>Arial-plain-11</font>
+        <URIString>http://vue.tufts.edu/rdf/resource/9482adbcc0a8380100dbd3ed6f92cda2</URIString>
+        <point1 x="-3911.0115" y="-453.85034"/>
+        <point2 x="-4909.385" y="-711.24396"/>
+        <ID1 xsi:type="node">264</ID1>
+        <ID2 xsi:type="node">281</ID2>
+        <ctrlPoint0 x="-4312.3335" y="-732.9184" xsi:type="point"/>
+    </child>
+    <child ID="305" layerID="1" created="1583039407970" x="-4919.444"
+        y="-739.5675" width="1020.1172" height="288.21716"
+        strokeWidth="5.0" autoSized="false" controlCount="1"
+        arrowState="2" xsi:type="link">
+        <strokeColor>#FEFB03</strokeColor>
+        <textColor>#404040</textColor>
+        <font>Arial-plain-11</font>
+        <URIString>http://vue.tufts.edu/rdf/resource/9482adbcc0a8380100dbd3ed1a83d8de</URIString>
+        <point1 x="-3901.8267" y="-453.85034"/>
+        <point2 x="-4916.944" y="-734.78564"/>
+        <ID1 xsi:type="node">264</ID1>
+        <ID2 xsi:type="node">282</ID2>
+        <ctrlPoint0 x="-4237.4595" y="-763.62213" xsi:type="point"/>
+    </child>
+    <child ID="307" layerID="1" created="1583039722045" x="-5080.5684"
+        y="-337.34082" width="156.52588" height="146.7749"
+        strokeWidth="5.0" autoSized="false" controlCount="0"
+        arrowState="2" xsi:type="link">
+        <strokeColor>#33A8F5</strokeColor>
+        <textColor>#404040</textColor>
+        <font>Arial-plain-11</font>
+        <URIString>http://vue.tufts.edu/rdf/resource/9487e269c0a8380100dbd3ed11b27f5b</URIString>
+        <point1 x="-4926.543" y="-193.06592"/>
+        <point2 x="-5078.069" y="-334.84082"/>
+        <ID1 xsi:type="node">246</ID1>
+        <ID2 xsi:type="node">252</ID2>
+    </child>
+    <child ID="308" layerID="1" created="1583039725341" x="-4581.499"
+        y="-825.1406" width="20.141113" height="623.625"
+        strokeWidth="5.0" autoSized="false" controlCount="0"
+        arrowState="2" xsi:type="link">
+        <strokeColor>#33A8F5</strokeColor>
+        <textColor>#404040</textColor>
+        <font>Arial-plain-11</font>
+        <URIString>http://vue.tufts.edu/rdf/resource/9487e269c0a8380100dbd3ed92a5263d</URIString>
+        <point1 x="-4578.9995" y="-204.01562"/>
+        <point2 x="-4563.8584" y="-822.6406"/>
+        <ID1 xsi:type="node">246</ID1>
+        <ID2 xsi:type="node">250</ID2>
+    </child>
+    <child ID="309" layerID="1" created="1583039729429" x="-4379.782"
+        y="-714.0488" width="328.94922" height="512.51465"
+        strokeWidth="5.0" autoSized="false" controlCount="0"
+        arrowState="2" xsi:type="link">
+        <strokeColor>#33A8F5</strokeColor>
+        <textColor>#404040</textColor>
+        <font>Arial-plain-11</font>
+        <URIString>http://vue.tufts.edu/rdf/resource/9487e269c0a8380100dbd3edcbe514b8</URIString>
+        <point1 x="-4377.282" y="-204.03418"/>
+        <point2 x="-4053.333" y="-711.5488"/>
+        <ID1 xsi:type="node">246</ID1>
+        <ID2 xsi:type="node">254</ID2>
+    </child>
+    <child ID="310" layerID="1" created="1583039732295" x="-4252.188"
+        y="-686.9182" width="508.6194" height="489.4751"
+        strokeWidth="5.0" autoSized="false" controlCount="0"
+        arrowState="2" xsi:type="link">
+        <strokeColor>#33A8F5</strokeColor>
+        <textColor>#404040</textColor>
+        <font>Arial-plain-11</font>
+        <URIString>http://vue.tufts.edu/rdf/resource/9487e269c0a8380100dbd3edacef7b3e</URIString>
+        <point1 x="-4249.688" y="-199.94312"/>
+        <point2 x="-3746.0686" y="-684.4182"/>
+        <ID1 xsi:type="node">246</ID1>
+        <ID2 xsi:type="node">253</ID2>
+    </child>
+    <child ID="311" layerID="1" created="1583039741567" x="-4550.0605"
+        y="-825.14795" width="591.6885" height="690.0215"
+        strokeWidth="5.0" autoSized="false" controlCount="0"
+        arrowState="2" xsi:type="link">
+        <strokeColor>#33A8F5</strokeColor>
+        <textColor>#404040</textColor>
+        <font>Arial-plain-11</font>
+        <URIString>http://vue.tufts.edu/rdf/resource/9487e269c0a8380100dbd3edcad0bd71</URIString>
+        <point1 x="-3960.872" y="-137.62646"/>
+        <point2 x="-4547.5605" y="-822.64795"/>
+        <ID1 xsi:type="node">248</ID1>
+        <ID2 xsi:type="node">250</ID2>
+    </child>
+    <child ID="312" layerID="1" created="1583039750433" x="-3581.5107"
+        y="-553.1743" width="239.02856" height="379.7422"
+        strokeWidth="5.0" autoSized="false" controlCount="0"
+        arrowState="2" xsi:type="link">
+        <strokeColor>#33A8F5</strokeColor>
+        <textColor>#404040</textColor>
+        <font>Arial-plain-11</font>
+        <URIString>http://vue.tufts.edu/rdf/resource/9487e26ac0a8380100dbd3ed4122cbd6</URIString>
+        <point1 x="-3579.0107" y="-175.93213"/>
+        <point2 x="-3344.9822" y="-550.6743"/>
+        <ID1 xsi:type="node">248</ID1>
+        <ID2 xsi:type="node">251</ID2>
+    </child>
+    <child ID="313" layerID="1" created="1583039755458" x="-3746.9917"
+        y="-686.9219" width="22.034668" height="513.4922"
+        strokeWidth="5.0" autoSized="false" controlCount="0"
+        arrowState="2" xsi:type="link">
+        <strokeColor>#33A8F5</strokeColor>
+        <textColor>#404040</textColor>
+        <font>Arial-plain-11</font>
+        <URIString>http://vue.tufts.edu/rdf/resource/9487e26ac0a8380100dbd3eda887a88b</URIString>
+        <point1 x="-3744.4917" y="-175.92969"/>
+        <point2 x="-3727.457" y="-684.4219"/>
+        <ID1 xsi:type="node">248</ID1>
+        <ID2 xsi:type="node">253</ID2>
+    </child>
+    <child ID="319" layerID="1" created="1583039848471" x="-5018.6934"
+        y="-337.341" width="1610.437" height="368.76172"
+        strokeWidth="5.0" autoSized="false" controlCount="0"
+        arrowState="2" xsi:type="link">
+        <strokeColor>#33A8F5</strokeColor>
+        <textColor>#404040</textColor>
+        <font>Arial-plain-11</font>
+        <URIString>http://vue.tufts.edu/rdf/resource/9487e26ac0a8380100dbd3eda133039a</URIString>
+        <point1 x="-3410.7559" y="28.920715"/>
+        <point2 x="-5016.193" y="-334.841"/>
+        <ID1 xsi:type="node">265</ID1>
+        <ID2 xsi:type="node">252</ID2>
+    </child>
+    <child ID="320" layerID="1" created="1583039854048" x="-4537.7017"
+        y="-825.1482" width="1129.4458" height="742.5698"
+        strokeWidth="5.0" autoSized="false" controlCount="0"
+        arrowState="2" xsi:type="link">
+        <strokeColor>#33A8F5</strokeColor>
+        <textColor>#404040</textColor>
+        <font>Arial-plain-11</font>
+        <URIString>http://vue.tufts.edu/rdf/resource/9487e26ac0a8380100dbd3eddb8c5417</URIString>
+        <point1 x="-3410.7559" y="-85.07837"/>
+        <point2 x="-4535.2017" y="-822.6482"/>
+        <ID1 xsi:type="node">265</ID1>
+        <ID2 xsi:type="node">250</ID2>
+    </child>
+    <child ID="321" layerID="1" created="1583039858368" x="-3715.7524"
+        y="-686.91846" width="365.92407" height="496.49854"
+        strokeWidth="5.0" autoSized="false" controlCount="0"
+        arrowState="2" xsi:type="link">
+        <strokeColor>#33A8F5</strokeColor>
+        <textColor>#404040</textColor>
+        <font>Arial-plain-11</font>
+        <URIString>http://vue.tufts.edu/rdf/resource/9487e26ac0a8380100dbd3ed89d52fe6</URIString>
+        <point1 x="-3352.3284" y="-192.91992"/>
+        <point2 x="-3713.2524" y="-684.41846"/>
+        <ID1 xsi:type="node">265</ID1>
+        <ID2 xsi:type="node">253</ID2>
+    </child>
     <layer ID="1" label="Layer 1" created="1582664709075" x="0.0"
         y="0.0" width="1.4E-45" height="1.4E-45" strokeWidth="0.0" autoSized="false">
         <URIString>http://vue.tufts.edu/rdf/resource/7e2ba576c0a83801015d1e0931034ec8</URIString>
     </layer>
-    <userZoom>1.0</userZoom>
-    <userOrigin x="-1532.7394" y="-928.50165"/>
+    <userZoom>0.6976064934627926</userZoom>
+    <userOrigin x="-3695.619" y="-842.8261"/>
     <presentationBackground>#202020</presentationBackground>
     <PathwayList currentPathway="0" revealerIndex="-1">
         <pathway ID="0" label="Untitled Pathway" created="1582664709071"
