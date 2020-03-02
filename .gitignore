@@ -20,6 +20,4 @@ Backup of *.doc*
 .~megamap.vue
 
 # Bad juju, man
-archive.org/*
-copyright_issues/*
-video/*
+DO_NOT_UPLOAD/*
