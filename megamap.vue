@@ -1,14 +1,14 @@
-<!-- Tufts VUE 3.3.0 concept-map (megamap.vue) 2020-02-29 -->
+<!-- Tufts VUE 3.3.0 concept-map (megamap.vue) 2020-03-02 -->
 <!-- Tufts VUE: http://vue.tufts.edu/ -->
 <!-- Do Not Remove: VUE mapping @version(1.1) jar:file:/C:/Program%20Files%20(x86)/VUE/VUE.jar!/tufts/vue/resources/lw_mapping_1_1.xml -->
-<!-- Do Not Remove: Saved date Sat Feb 29 22:24:53 MST 2020 by ellag on platform Windows 8 6.2 in JVM 1.7.0_21-b11 -->
+<!-- Do Not Remove: Saved date Mon Mar 02 10:03:35 MST 2020 by ellag on platform Windows 8 6.2 in JVM 1.7.0_21-b11 -->
 <!-- Do Not Remove: Saving version @(#)VUE: built October 8 2015 at 1658 by tomadm on Linux 2.6.32-504.23.4.el6.x86_64 i386 JVM 1.7.0_21-b11(bits=32) -->
 <?xml version="1.0" encoding="US-ASCII"?>
 <LW-MAP xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:noNamespaceSchemaLocation="none" ID="0" label="megamap.vue"
     created="1582664709072" x="0.0" y="0.0" width="1540.4739"
     height="1651.1401" strokeWidth="0.0" autoSized="false">
-    <resource referenceCreated="1583040293752" size="197287"
+    <resource referenceCreated="1583168616025" size="201453"
         spec="C:\Users\ellag\Documents\GitHub\maydaymystery\megamap.vue"
         type="1" xsi:type="URLResource">
         <title>megamap.vue</title>
@@ -3392,12 +3392,77 @@
         <ID1 xsi:type="node">265</ID1>
         <ID2 xsi:type="node">253</ID2>
     </child>
+    <child ID="325" label="DEAD THEORIES:" layerID="1"
+        created="1583168442910" x="-6391.833" y="-1088.0176"
+        width="532.5" height="574.8125" strokeWidth="1.0"
+        autoSized="true" xsi:type="node">
+        <fillColor>#4C4C4C</fillColor>
+        <strokeColor>#000000</strokeColor>
+        <textColor>#FFFFFF</textColor>
+        <font>Arial-bold-54</font>
+        <URIString>http://vue.tufts.edu/rdf/resource/9c32f90ec0a8380100d31d29c4c1838b</URIString>
+        <child ID="326" label="Rosicrucians / Freemasons did it."
+            created="1583168442910" x="34.0" y="71.0" width="657.0"
+            height="663.75" strokeWidth="1.0" autoSized="true" xsi:type="node">
+            <fillColor>#EA2218</fillColor>
+            <strokeColor>#000000</strokeColor>
+            <textColor>#000000</textColor>
+            <font>Arial-italic-42</font>
+            <URIString>http://vue.tufts.edu/rdf/resource/9c32f90fc0a8380100d31d29e854007a</URIString>
+            <child ID="327"
+                label="www.maydaymystery.org\&#xa;mayday\offsite\&#xa;letter060400\page1.jpg"
+                created="1583168486303" x="34.0" y="57.0"
+                width="549.57776" height="801.0" strokeWidth="1.0"
+                autoSized="true" xsi:type="node">
+                <resource referenceCreated="0" size="226289"
+                    spec="C:\Users\ellag\Documents\GitHub\maydaymystery\megamap_files\clips\rosicrucian\letter060400_page1.jpg"
+                    type="1" xsi:type="URLResource">
+                    <title>letter060400_page1.jpg</title>
+                    <property key="Content.size" value="226289"/>
+                    <property key="Content.modified" value="Thu Feb 22 21:14:29 MST 2018"/>
+                    <property key="image.width" value="718"/>
+                    <property key="image.height" value="900"/>
+                    <property key="image.format" value="JPEG"/>
+                    <property key="@file.relative" value="megamap_files/clips/rosicrucian/letter060400_page1.jpg"/>
+                    <property key="File" value="megamap_files/clips/rosicrucian/letter060400_page1.jpg"/>
+                </resource>
+                <fillColor>#EA2218</fillColor>
+                <strokeColor>#000000</strokeColor>
+                <textColor>#000000</textColor>
+                <font>Arial-italic-42</font>
+                <URIString>http://vue.tufts.edu/rdf/resource/9c32f90fc0a8380100d31d296736311a</URIString>
+                <child ID="328" created="1583168486301" x="34.0"
+                    y="155.0" width="510.5778" height="640.0"
+                    strokeWidth="0.0" autoSized="false" xsi:type="image">
+                    <resource referenceCreated="0" size="226289"
+                        spec="C:\Users\ellag\Documents\GitHub\maydaymystery\megamap_files\clips\rosicrucian\letter060400_page1.jpg"
+                        type="1" xsi:type="URLResource">
+                        <title>letter060400_page1.jpg</title>
+                        <property key="Content.size" value="226289"/>
+                        <property key="Content.modified" value="Thu Feb 22 21:14:29 MST 2018"/>
+                        <property key="image.width" value="718"/>
+                        <property key="image.height" value="900"/>
+                        <property key="image.format" value="JPEG"/>
+                        <property key="@file.relative" value="megamap_files/clips/rosicrucian/letter060400_page1.jpg"/>
+                        <property key="File" value="megamap_files/clips/rosicrucian/letter060400_page1.jpg"/>
+                    </resource>
+                    <strokeColor>#404040</strokeColor>
+                    <textColor>#000000</textColor>
+                    <font>SansSerif-plain-14</font>
+                    <URIString>http://vue.tufts.edu/rdf/resource/9c32f90fc0a8380100d31d29d2e364a6</URIString>
+                </child>
+                <shape arcwidth="20.0" archeight="20.0" xsi:type="roundRect"/>
+            </child>
+            <shape arcwidth="20.0" archeight="20.0" xsi:type="roundRect"/>
+        </child>
+        <shape arcwidth="20.0" archeight="20.0" xsi:type="roundRect"/>
+    </child>
     <layer ID="1" label="Layer 1" created="1582664709075" x="0.0"
         y="0.0" width="1.4E-45" height="1.4E-45" strokeWidth="0.0" autoSized="false">
         <URIString>http://vue.tufts.edu/rdf/resource/7e2ba576c0a83801015d1e0931034ec8</URIString>
     </layer>
-    <userZoom>0.6976064934627926</userZoom>
-    <userOrigin x="-3695.619" y="-842.8261"/>
+    <userZoom>0.29510921826470304</userZoom>
+    <userOrigin x="-2277.9612" y="-362.5232"/>
     <presentationBackground>#202020</presentationBackground>
     <PathwayList currentPathway="0" revealerIndex="-1">
         <pathway ID="0" label="Untitled Pathway" created="1582664709071"
