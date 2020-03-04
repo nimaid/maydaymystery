@@ -8,6 +8,8 @@ These are scans I have personally taken from the bound and unbound archives of T
 
 All images are from The (Arizona) Daily Wildcat student-run newspaper at The University of Arizona. The copyright holder of this content is therefore The Daily Wildcat, and they hold all rights to this content. I have obtained explicit permission to publish these online from the Editor-in-Chief of The Daily Wildcat through the Director of Arizona Student Media. The requirements for this republishing are to cite The (Arizona) Daily Wildcat (above) and the full date each was published (below).
 
+[You can find the original, lossless scan files on archive.org.](https://archive.org/details/MayDayMystery)
+
 ## Table of Contents
 * [1988 April 27th (Wednesday) {Page 16}](#1988-april-27th-wednesday-page-16-table-of-contents)
 * [1989 May 1st (Monday) {Page 24}](#1989-may-1st-monday-page-24-table-of-contents)
