@@ -1,8 +1,8 @@
 # Personal HD Scans
 
-![May Day Mystery](preview.jpg)
-
 This page will take a while to load all the images, please be paitent. This page downloads a lot of data, so be warned if your computer is slow or you have a data limit!
+
+![May Day Mystery](preview.jpg)
 
 These are scans I have personally taken from the bound and unbound archives of The (Arizona) Daily Wildcat in the Special Collections building in the University of Arizona library. I intend to upload the highest resolution I can obtain with the tools available to me at this time.
 
